@@ -12,20 +12,26 @@ const itineraries = (await getCollection('itineraries', ({ data }) => !data.draf
 
 <BaseLayout title="Is New Zealand Worth It With Kids?">
   <!-- Hero -->
-  <section class="bg-forest-900 text-white">
-    <div class="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-24 text-center">
-      <p class="text-forest-300 text-sm font-semibold uppercase tracking-widest mb-4">A family travel guide</p>
-      <h1 class="font-display text-4xl sm:text-6xl font-bold leading-tight mb-6">
+  <section class="relative text-white overflow-hidden" style="min-height: 580px;">
+    <img
+      src="/FamilyHikingNZHero.png"
+      alt="Family hiking through New Zealand mountains"
+      class="absolute inset-0 w-full h-full object-cover object-center"
+    />
+    <div class="absolute inset-0 bg-gradient-to-b from-black/50 via-black/40 to-black/60"></div>
+    <div class="relative max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-32 text-center">
+      <p class="text-forest-200 text-sm font-semibold uppercase tracking-widest mb-4">A family travel guide</p>
+      <h1 class="font-display text-4xl sm:text-6xl font-bold leading-tight mb-6 drop-shadow-lg">
         Is New Zealand Worth It<br class="hidden sm:block" /> With Kids?
       </h1>
-      <p class="text-forest-200 text-xl max-w-2xl mx-auto leading-relaxed mb-10">
+      <p class="text-white/90 text-xl max-w-2xl mx-auto leading-relaxed mb-10 drop-shadow">
         Short answer: yes. Long answer: we flew our kids 9,000 miles to find out, and this is everything we learned.
       </p>
       <div class="flex flex-col sm:flex-row gap-4 justify-center">
         <a href="/planning" class="inline-block bg-white text-forest-900 font-semibold px-6 py-3 rounded-lg hover:bg-forest-50 transition-colors">
           Start Planning
         </a>
-        <a href="/itineraries" class="inline-block border border-forest-400 text-white font-semibold px-6 py-3 rounded-lg hover:bg-forest-800 transition-colors">
+        <a href="/itineraries" class="inline-block border border-white/70 text-white font-semibold px-6 py-3 rounded-lg hover:bg-white/10 transition-colors">
           See Itineraries
         </a>
       </div>
