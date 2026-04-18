@@ -32,7 +32,7 @@ const destinations = defineCollection({
   schema: z.object({
     title: z.string(),
     description: z.string(),
-    region: z.enum(['Northland', 'Auckland', 'Waikato', 'Bay of Plenty', 'Rotorua', 'Hawke\'s Bay', 'Wellington', 'Nelson', 'Marlborough', 'West Coast', 'Canterbury', 'Queenstown', 'Otago', 'Southland', 'Fiordland']),
+    region: z.enum(['Northland', 'Auckland', 'Coromandel', 'Waikato', 'Bay of Plenty', 'Rotorua', 'Hawke\'s Bay', 'Wellington', 'Nelson', 'Marlborough', 'West Coast', 'Canterbury', 'Mackenzie', 'Queenstown', 'Otago', 'Southland', 'Fiordland']),
     heroImage: z.string().optional(),
     kidRating: z.number().min(1).max(5),
     highlights: z.array(z.string()).default([]),
