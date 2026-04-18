@@ -1,0 +1,144 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+
+const posts = (await getCollection('blog', ({ data }) => !data.draft))
+  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
+  .slice(0, 3);
+
+const itineraries = (await getCollection('itineraries', ({ data }) => !data.draft))
+  .slice(0, 2);
+---
+
+<BaseLayout title="Is New Zealand Worth It With Kids?">
+  <!-- Hero -->
+  <section class="bg-forest-900 text-white">
+    <div class="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-24 text-center">
+      <p class="text-forest-300 text-sm font-semibold uppercase tracking-widest mb-4">A family travel guide</p>
+      <h1 class="font-display text-4xl sm:text-6xl font-bold leading-tight mb-6">
+        Is New Zealand Worth It<br class="hidden sm:block" /> With Kids?
+      </h1>
+      <p class="text-forest-200 text-xl max-w-2xl mx-auto leading-relaxed mb-10">
+        Short answer: yes. Long answer: we flew our kids 9,000 miles to find out, and this is everything we learned.
+      </p>
+      <div class="flex flex-col sm:flex-row gap-4 justify-center">
+        <a href="/planning" class="inline-block bg-white text-forest-900 font-semibold px-6 py-3 rounded-lg hover:bg-forest-50 transition-colors">
+          Start Planning
+        </a>
+        <a href="/itineraries" class="inline-block border border-forest-400 text-white font-semibold px-6 py-3 rounded-lg hover:bg-forest-800 transition-colors">
+          See Itineraries
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Why section -->
+  <section class="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-20">
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
+      <div>
+        <h2 class="font-display text-3xl font-bold text-gray-900 mb-5">Why New Zealand?</h2>
+        <p class="text-gray-600 leading-relaxed mb-4">
+          Because it is genuinely unlike anywhere else. Kids who spend a week here come home different - they've seen glowworms in a cave, watched geysers erupt, ridden a gondola over a lake the color of turquoise glass, and maybe (definitely) done a luge.
+        </p>
+        <p class="text-gray-600 leading-relaxed mb-6">
+          The flight is long. The jet lag is real. But New Zealand is one of the most family-friendly countries in the world - safe, well-organized, outdoors-obsessed, and full of things that are genuinely spectacular for kids, not just adults.
+        </p>
+        <a href="/our-story" class="text-forest-600 font-semibold hover:text-forest-800 transition-colors">Read our story &rarr;</a>
+      </div>
+      <div class="grid grid-cols-2 gap-4">
+        {[
+          { label: 'Safe for families', icon: '🛡️' },
+          { label: 'World-class nature', icon: '🏔️' },
+          { label: 'English speaking', icon: '💬' },
+          { label: 'Great food scene', icon: '🍔' },
+        ].map((item) => (
+          <div class="bg-forest-50 rounded-xl p-5 text-center">
+            <div class="text-3xl mb-2">{item.icon}</div>
+            <p class="text-sm font-semibold text-forest-800">{item.label}</p>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- Sections overview -->
+  <section class="bg-forest-50 py-20">
+    <div class="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
+      <h2 class="font-display text-3xl font-bold text-gray-900 text-center mb-12">Everything You Need to Plan the Trip</h2>
+      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+        {[
+          {
+            href: '/planning',
+            title: 'Planning for Your Family',
+            desc: 'Flights, budget, what age is right, and how to survive the journey there.',
+          },
+          {
+            href: '/destinations',
+            title: 'Where to Take Them',
+            desc: 'Region-by-region destination guides rated and filtered for families.',
+          },
+          {
+            href: '/itineraries',
+            title: 'Itineraries',
+            desc: 'Full day-by-day trip plans you can adapt for your own family.',
+          },
+          {
+            href: '/blog',
+            title: 'Blog',
+            desc: 'Stories, surprises, and things we wish someone had told us.',
+          },
+          {
+            href: '/our-story',
+            title: 'Our Story',
+            desc: 'Who we are, why we went, and why we keep coming back.',
+          },
+        ].map((card) => (
+          <a href={card.href} class="bg-white rounded-xl p-6 border border-forest-100 hover:border-forest-300 hover:shadow-sm transition-all group">
+            <h3 class="font-semibold text-gray-900 mb-2 group-hover:text-forest-700 transition-colors">{card.title}</h3>
+            <p class="text-sm text-gray-500 leading-relaxed">{card.desc}</p>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- Latest itineraries -->
+  {itineraries.length > 0 && (
+    <section class="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-20">
+      <div class="flex items-center justify-between mb-8">
+        <h2 class="font-display text-2xl font-bold text-gray-900">Featured Itineraries</h2>
+        <a href="/itineraries" class="text-sm text-forest-600 font-semibold hover:text-forest-800">View all &rarr;</a>
+      </div>
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+        {itineraries.map((it) => (
+          <a href={`/itineraries/${it.slug}`} class="block border border-gray-200 rounded-xl p-6 hover:border-forest-300 hover:shadow-sm transition-all group">
+            <p class="text-xs font-semibold text-forest-600 uppercase tracking-wider mb-2">{it.data.duration} &middot; Ages {it.data.kidAges}</p>
+            <h3 class="font-display text-lg font-bold text-gray-900 mb-2 group-hover:text-forest-700 transition-colors">{it.data.title}</h3>
+            <p class="text-sm text-gray-500 leading-relaxed">{it.data.description}</p>
+          </a>
+        ))}
+      </div>
+    </section>
+  )}
+
+  <!-- Latest from the blog -->
+  {posts.length > 0 && (
+    <section class="bg-forest-50 py-20">
+      <div class="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div class="flex items-center justify-between mb-8">
+          <h2 class="font-display text-2xl font-bold text-gray-900">From the Blog</h2>
+          <a href="/blog" class="text-sm text-forest-600 font-semibold hover:text-forest-800">All posts &rarr;</a>
+        </div>
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+          {posts.map((post) => (
+            <a href={`/blog/${post.slug}`} class="bg-white rounded-xl p-6 border border-forest-100 hover:border-forest-300 hover:shadow-sm transition-all group">
+              <p class="text-xs text-gray-400 mb-2">{post.data.pubDate.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}</p>
+              <h3 class="font-semibold text-gray-900 mb-2 group-hover:text-forest-700 transition-colors leading-snug">{post.data.title}</h3>
+              <p class="text-sm text-gray-500 leading-relaxed line-clamp-3">{post.data.description}</p>
+            </a>
+          ))}
+        </div>
+      </div>
+    </section>
+  )}
+</BaseLayout>

@@ -1,0 +1,52 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+
+const itineraries = await getCollection('itineraries', ({ data }) => !data.draft);
+---
+
+<BaseLayout
+  title="Itineraries"
+  description="Full family trip plans for New Zealand. Day-by-day itineraries you can adapt for your own trip."
+>
+  <div class="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+    <p class="text-sm font-semibold text-forest-600 uppercase tracking-wider mb-3">Trip Plans</p>
+    <h1 class="font-display text-4xl font-bold text-gray-900 mb-4">Itineraries</h1>
+    <p class="text-lg text-gray-500 mb-12 leading-relaxed max-w-2xl">
+      Day-by-day trip plans built and tested by our family. Use them as a starting point and adjust for yours.
+    </p>
+
+    {itineraries.length > 0 ? (
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+        {itineraries.map((it) => (
+          <a href={`/itineraries/${it.slug}`} class="block border border-gray-200 rounded-xl overflow-hidden hover:border-forest-300 hover:shadow-sm transition-all group">
+            {it.data.heroImage && (
+              <img src={it.data.heroImage} alt={it.data.title} class="w-full h-48 object-cover" />
+            )}
+            <div class="p-6">
+              <div class="flex gap-3 mb-3">
+                <span class="text-xs font-semibold bg-forest-100 text-forest-700 px-2 py-1 rounded-full">{it.data.duration}</span>
+                <span class="text-xs font-semibold bg-gray-100 text-gray-600 px-2 py-1 rounded-full">Ages {it.data.kidAges}</span>
+              </div>
+              <h3 class="font-display text-xl font-bold text-gray-900 mb-2 group-hover:text-forest-700 transition-colors">{it.data.title}</h3>
+              <p class="text-sm text-gray-500 leading-relaxed mb-4">{it.data.description}</p>
+              {it.data.highlights.length > 0 && (
+                <ul class="space-y-1">
+                  {it.data.highlights.slice(0, 3).map((h) => (
+                    <li class="text-xs text-gray-500 flex gap-2">
+                      <span class="text-forest-400">&#10003;</span>{h}
+                    </li>
+                  ))}
+                </ul>
+              )}
+            </div>
+          </a>
+        ))}
+      </div>
+    ) : (
+      <div class="text-center py-20 text-gray-400">
+        <p class="text-lg">Itineraries coming soon.</p>
+      </div>
+    )}
+  </div>
+</BaseLayout>

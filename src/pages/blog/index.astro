@@ -1,0 +1,43 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+
+const posts = (await getCollection('blog', ({ data }) => !data.draft))
+  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+---
+
+<BaseLayout
+  title="Blog"
+  description="Stories, tips, and honest accounts from a family who traveled New Zealand with kids."
+>
+  <div class="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+    <p class="text-sm font-semibold text-forest-600 uppercase tracking-wider mb-3">Stories & Updates</p>
+    <h1 class="font-display text-4xl font-bold text-gray-900 mb-4">Blog</h1>
+    <p class="text-lg text-gray-500 mb-12 leading-relaxed">
+      Things we experienced, learned, or wish we had known.
+    </p>
+
+    {posts.length > 0 ? (
+      <div class="divide-y divide-gray-100">
+        {posts.map((post) => (
+          <article class="py-8 first:pt-0">
+            <a href={`/blog/${post.slug}`} class="group block">
+              <div class="flex items-center gap-3 mb-2">
+                <time class="text-xs text-gray-400">{post.data.pubDate.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}</time>
+                {post.data.tags.map((tag) => (
+                  <span class="text-xs font-medium bg-forest-50 text-forest-600 px-2 py-0.5 rounded-full">{tag}</span>
+                ))}
+              </div>
+              <h2 class="font-display text-xl font-bold text-gray-900 mb-2 group-hover:text-forest-700 transition-colors leading-snug">{post.data.title}</h2>
+              <p class="text-gray-500 text-sm leading-relaxed">{post.data.description}</p>
+            </a>
+          </article>
+        ))}
+      </div>
+    ) : (
+      <div class="text-center py-20 text-gray-400">
+        <p class="text-lg">Posts coming soon.</p>
+      </div>
+    )}
+  </div>
+</BaseLayout>

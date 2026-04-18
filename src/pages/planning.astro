@@ -1,0 +1,106 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+
+<BaseLayout
+  title="Planning for Your Family"
+  description="Flights, budget, what age is best, and everything you need to know before booking a family trip to New Zealand."
+>
+  <div class="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+    <p class="text-sm font-semibold text-forest-600 uppercase tracking-wider mb-3">Family Travel Guide</p>
+    <h1 class="font-display text-4xl font-bold text-gray-900 mb-4">Planning for Your Family</h1>
+    <p class="text-lg text-gray-500 mb-12 leading-relaxed">
+      New Zealand rewards families who plan well. Here is everything you need before you book.
+    </p>
+
+    <!-- Sections -->
+    <div class="space-y-14">
+
+      <section>
+        <h2 class="font-display text-2xl font-bold text-gray-900 mb-4">Is My Child Old Enough?</h2>
+        <p class="text-gray-600 leading-relaxed mb-4">
+          There is no wrong age - but the right age shapes what you can do. Babies and toddlers are easier to manage than you think; the environment is safe and clean. Kids aged 5-10 hit a sweet spot: old enough for most activities, young enough to be thrilled by everything.
+        </p>
+        <div class="grid grid-cols-1 sm:grid-cols-3 gap-4 mt-6">
+          {[
+            { age: 'Under 5', notes: 'Possible, paced well. Skip long hikes. Focus on beaches, zoos, and hot pools.' },
+            { age: '5-10', notes: 'The sweet spot. Can handle most activities, energized by nature, still excited about everything.' },
+            { age: '11+', notes: 'More independence, can do longer treks, ready for bigger adventure activities.' },
+          ].map((item) => (
+            <div class="bg-forest-50 rounded-xl p-5">
+              <p class="font-semibold text-forest-800 mb-2">{item.age}</p>
+              <p class="text-sm text-gray-600 leading-relaxed">{item.notes}</p>
+            </div>
+          ))}
+        </div>
+      </section>
+
+      <section>
+        <h2 class="font-display text-2xl font-bold text-gray-900 mb-4">The Flight</h2>
+        <p class="text-gray-600 leading-relaxed mb-4">
+          From the US, you are looking at a 12-17 hour flight to Auckland depending on your departure city. It is long. It is manageable. The key is setting expectations with kids and having a plan for the time.
+        </p>
+        <ul class="space-y-3 text-gray-600 text-sm">
+          {[
+            'Book overnight flights where possible - kids sleep, time passes faster.',
+            'New Zealand airlines (Air New Zealand) are family-friendly with good entertainment options.',
+            'Pack a dedicated activity bag with a few surprises for the flight.',
+            'Build in 1-2 recovery days at the start of your trip for jet lag.',
+            'Consider splitting the journey with a stopover in Fiji or Hawaii.',
+          ].map((tip) => (
+            <li class="flex gap-3">
+              <span class="text-forest-500 mt-0.5">&#10003;</span>
+              <span>{tip}</span>
+            </li>
+          ))}
+        </ul>
+      </section>
+
+      <section>
+        <h2 class="font-display text-2xl font-bold text-gray-900 mb-4">Budget</h2>
+        <p class="text-gray-600 leading-relaxed mb-4">
+          New Zealand is not cheap. Being honest about this saves a lot of frustration during planning. Budget for the real cost and you will have a great trip; be surprised by it and the whole thing feels expensive.
+        </p>
+        <div class="overflow-x-auto">
+          <table class="w-full text-sm text-left border-collapse">
+            <thead>
+              <tr class="border-b border-gray-200">
+                <th class="py-3 pr-6 font-semibold text-gray-900">Category</th>
+                <th class="py-3 font-semibold text-gray-900">Daily estimate (family of 4)</th>
+              </tr>
+            </thead>
+            <tbody class="divide-y divide-gray-100 text-gray-600">
+              <tr><td class="py-3 pr-6">Accommodation</td><td>$150-300 NZD</td></tr>
+              <tr><td class="py-3 pr-6">Rental car</td><td>$80-150 NZD</td></tr>
+              <tr><td class="py-3 pr-6">Food (mix of self-catering + dining)</td><td>$100-180 NZD</td></tr>
+              <tr><td class="py-3 pr-6">Activities</td><td>$50-200 NZD (varies widely)</td></tr>
+              <tr class="font-semibold text-gray-900"><td class="py-3 pr-6">Total per day</td><td>$380-830 NZD</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p class="text-xs text-gray-400 mt-2">Exchange rate: check current NZD/USD. Flights are additional and typically $800-1,800 per person round trip from the US.</p>
+      </section>
+
+      <section>
+        <h2 class="font-display text-2xl font-bold text-gray-900 mb-4">Getting Around</h2>
+        <p class="text-gray-600 leading-relaxed mb-4">
+          You need a rental car. Public transport in New Zealand is functional in cities but useless between them. With kids, a car gives you flexibility that makes the entire trip easier.
+        </p>
+        <ul class="space-y-3 text-gray-600 text-sm">
+          {[
+            'New Zealand drives on the left. Plan extra time to adjust.',
+            'Roads outside cities are often narrow, winding, and slower than GPS estimates.',
+            'Book a car with a built-in GPS or download offline maps before you go.',
+            'Check if your car seats fit rental car specifications before you travel.',
+          ].map((tip) => (
+            <li class="flex gap-3">
+              <span class="text-forest-500 mt-0.5">&#10003;</span>
+              <span>{tip}</span>
+            </li>
+          ))}
+        </ul>
+      </section>
+
+    </div>
+  </div>
+</BaseLayout>

@@ -1,0 +1,47 @@
+---
+import { getCollection } from 'astro:content';
+import ProseLayout from '../../layouts/ProseLayout.astro';
+
+export async function getStaticPaths() {
+  const itineraries = await getCollection('itineraries', ({ data }) => !data.draft);
+  return itineraries.map((it) => ({
+    params: { slug: it.slug },
+    props: { it },
+  }));
+}
+
+const { it } = Astro.props;
+const { Content } = await it.render();
+---
+
+<ProseLayout
+  title={it.data.title}
+  description={it.data.description}
+  heroImage={it.data.heroImage}
+  eyebrow="Itinerary"
+>
+  <div class="not-prose flex gap-3 mb-8">
+    <span class="text-sm font-semibold bg-forest-100 text-forest-700 px-3 py-1 rounded-full">{it.data.duration}</span>
+    <span class="text-sm font-semibold bg-gray-100 text-gray-600 px-3 py-1 rounded-full">Ages {it.data.kidAges}</span>
+  </div>
+
+  {it.data.highlights.length > 0 && (
+    <div class="not-prose bg-forest-50 rounded-xl p-6 mb-8">
+      <h3 class="font-semibold text-forest-800 mb-3 text-sm uppercase tracking-wider">Trip Highlights</h3>
+      <ul class="space-y-2">
+        {it.data.highlights.map((h) => (
+          <li class="flex gap-2 text-sm text-gray-700">
+            <span class="text-forest-500">&#10003;</span>
+            {h}
+          </li>
+        ))}
+      </ul>
+    </div>
+  )}
+
+  <Content />
+
+  <div class="not-prose mt-12 pt-8 border-t border-gray-100">
+    <a href="/itineraries" class="text-sm text-forest-600 font-semibold hover:text-forest-800 transition-colors">&larr; All itineraries</a>
+  </div>
+</ProseLayout>

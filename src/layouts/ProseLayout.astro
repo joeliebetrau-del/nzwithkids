@@ -1,0 +1,35 @@
+---
+import BaseLayout from './BaseLayout.astro';
+
+interface Props {
+  title: string;
+  description?: string;
+  heroImage?: string;
+  eyebrow?: string;
+}
+
+const { title, description, heroImage, eyebrow } = Astro.props;
+---
+
+<BaseLayout title={title} description={description} image={heroImage}>
+  <article class="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+    {eyebrow && (
+      <p class="text-sm font-semibold text-forest-600 uppercase tracking-wider mb-3">{eyebrow}</p>
+    )}
+    <h1 class="font-display text-3xl sm:text-4xl font-bold text-gray-900 leading-tight mb-4">{title}</h1>
+    {description && (
+      <p class="text-lg text-gray-500 mb-8 leading-relaxed">{description}</p>
+    )}
+    {heroImage && (
+      <img src={heroImage} alt={title} class="w-full rounded-xl mb-10 object-cover aspect-video" />
+    )}
+    <div class="prose prose-forest max-w-none
+      prose-headings:font-display prose-headings:text-gray-900
+      prose-p:text-gray-700 prose-p:leading-relaxed
+      prose-a:text-forest-600 hover:prose-a:text-forest-800
+      prose-li:text-gray-700
+      prose-strong:text-gray-900">
+      <slot />
+    </div>
+  </article>
+</BaseLayout>

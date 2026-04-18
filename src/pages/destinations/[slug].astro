@@ -1,0 +1,48 @@
+---
+import { getCollection } from 'astro:content';
+import ProseLayout from '../../layouts/ProseLayout.astro';
+
+export async function getStaticPaths() {
+  const destinations = await getCollection('destinations', ({ data }) => !data.draft);
+  return destinations.map((dest) => ({
+    params: { slug: dest.slug },
+    props: { dest },
+  }));
+}
+
+const { dest } = Astro.props;
+const { Content } = await dest.render();
+---
+
+<ProseLayout
+  title={dest.data.title}
+  description={dest.data.description}
+  heroImage={dest.data.heroImage}
+  eyebrow={dest.data.region}
+>
+  {dest.data.highlights.length > 0 && (
+    <div class="not-prose bg-forest-50 rounded-xl p-6 mb-8">
+      <h3 class="font-semibold text-forest-800 mb-3 text-sm uppercase tracking-wider">Highlights</h3>
+      <ul class="space-y-2">
+        {dest.data.highlights.map((h) => (
+          <li class="flex gap-2 text-sm text-gray-700">
+            <span class="text-forest-500">&#10003;</span>
+            {h}
+          </li>
+        ))}
+      </ul>
+      <div class="flex gap-1 mt-4 pt-4 border-t border-forest-100">
+        <span class="text-xs text-gray-500 mr-1">Kid rating:</span>
+        {Array.from({ length: 5 }).map((_, i) => (
+          <svg class={`w-4 h-4 ${i < dest.data.kidRating ? 'text-forest-500' : 'text-gray-200'}`} fill="currentColor" viewBox="0 0 20 20">
+            <path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z" />
+          </svg>
+        ))}
+      </div>
+    </div>
+  )}
+  <Content />
+  <div class="not-prose mt-12 pt-8 border-t border-gray-100">
+    <a href="/destinations" class="text-sm text-forest-600 font-semibold hover:text-forest-800 transition-colors">&larr; All destinations</a>
+  </div>
+</ProseLayout>
