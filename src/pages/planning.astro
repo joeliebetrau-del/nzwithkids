@@ -4,97 +4,174 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 
 <BaseLayout
   title="Planning for Your Family"
-  description="Flights, budget, what age is best, and everything you need to know before booking a family trip to New Zealand."
+  description="The real answers to the questions families ask before booking New Zealand. Flights, budget, ages, driving, jet lag - all of it."
 >
   <div class="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
     <p class="text-sm font-semibold text-forest-600 uppercase tracking-wider mb-3">Family Travel Guide</p>
     <h1 class="font-display text-4xl font-bold text-gray-900 mb-4">Planning for Your Family</h1>
     <p class="text-lg text-gray-500 mb-12 leading-relaxed">
-      New Zealand rewards families who plan well. Here is everything you need before you book.
+      New Zealand rewards families who plan well and punishes those who wing it. Here is everything we wish someone had told us before we booked.
     </p>
 
-    <!-- Sections -->
-    <div class="space-y-14">
+    <div class="space-y-16">
 
+      <!-- Age -->
       <section>
-        <h2 class="font-display text-2xl font-bold text-gray-900 mb-4">Is My Child Old Enough?</h2>
+        <h2 class="font-display text-2xl font-bold text-gray-900 mb-2">Is My Child Old Enough?</h2>
+        <p class="text-gray-500 text-sm mb-5 italic">The question everyone asks first. The honest answer: it depends on what you want to do.</p>
         <p class="text-gray-600 leading-relaxed mb-4">
-          There is no wrong age - but the right age shapes what you can do. Babies and toddlers are easier to manage than you think; the environment is safe and clean. Kids aged 5-10 hit a sweet spot: old enough for most activities, young enough to be thrilled by everything.
+          We took our kids at ages 8, 10, and 12 and every single one of them had a remarkable time. The eight-year-old finished a 10km glacier trail, dug her own hot pool on a Pacific beach, and declared an eccentric water-powered art installation in the Coromandel bush her favorite thing of the trip. Age is less of a ceiling than you think.
         </p>
-        <div class="grid grid-cols-1 sm:grid-cols-3 gap-4 mt-6">
+        <p class="text-gray-600 leading-relaxed mb-6">
+          That said, the experience shifts significantly by age group - mostly in terms of what activities are available and how much ground you can cover in a day.
+        </p>
+        <div class="grid grid-cols-1 sm:grid-cols-3 gap-4">
           {[
-            { age: 'Under 5', notes: 'Possible, paced well. Skip long hikes. Focus on beaches, zoos, and hot pools.' },
-            { age: '5-10', notes: 'The sweet spot. Can handle most activities, energized by nature, still excited about everything.' },
-            { age: '11+', notes: 'More independence, can do longer treks, ready for bigger adventure activities.' },
+            {
+              age: 'Under 5',
+              notes: 'Doable with careful pacing. Skip long hikes and full activity days. Focus on beaches, hot pools, wildlife encounters, and playgrounds. New Zealand is safe and easy to navigate with toddlers.',
+            },
+            {
+              age: '5-10',
+              notes: 'The sweet spot. Old enough for most activities, still delighted by everything, young enough that every new experience lands hard. Our 8 and 10-year-old hit every single activity we planned without complaint.',
+            },
+            {
+              age: '11+',
+              notes: 'Near-adult capability for activities. Age minimums become irrelevant. Can handle full hiking days, longer drives, and more immersive experiences. The risk is trying to keep pace with them.',
+            },
           ].map((item) => (
             <div class="bg-forest-50 rounded-xl p-5">
-              <p class="font-semibold text-forest-800 mb-2">{item.age}</p>
+              <p class="font-bold text-forest-800 mb-2">{item.age}</p>
               <p class="text-sm text-gray-600 leading-relaxed">{item.notes}</p>
             </div>
           ))}
         </div>
       </section>
 
+      <!-- Flight -->
       <section>
-        <h2 class="font-display text-2xl font-bold text-gray-900 mb-4">The Flight</h2>
+        <h2 class="font-display text-2xl font-bold text-gray-900 mb-2">The Flight</h2>
+        <p class="text-gray-500 text-sm mb-5 italic">Yes, it is sixteen hours. No, it is not as bad as you are imagining.</p>
         <p class="text-gray-600 leading-relaxed mb-4">
-          From the US, you are looking at a 12-17 hour flight to Auckland depending on your departure city. It is long. It is manageable. The key is setting expectations with kids and having a plan for the time.
+          From the US Midwest, you are looking at a connection through a West Coast hub - we flew Chicago to San Francisco, then San Francisco to Auckland on Air New Zealand. The Auckland leg is sixteen hours. You cross the International Date Line. You lose a day on the way there and gain it back on the way home.
         </p>
-        <ul class="space-y-3 text-gray-600 text-sm">
-          {[
-            'Book overnight flights where possible - kids sleep, time passes faster.',
-            'New Zealand airlines (Air New Zealand) are family-friendly with good entertainment options.',
-            'Pack a dedicated activity bag with a few surprises for the flight.',
-            'Build in 1-2 recovery days at the start of your trip for jet lag.',
-            'Consider splitting the journey with a stopover in Fiji or Hawaii.',
-          ].map((tip) => (
-            <li class="flex gap-3">
-              <span class="text-forest-500 mt-0.5">&#10003;</span>
-              <span>{tip}</span>
-            </li>
-          ))}
-        </ul>
+        <p class="text-gray-600 leading-relaxed mb-4">
+          Air New Zealand is excellent. The aircraft is comfortable, the entertainment system is better than most, and the crew is genuinely good with kids. Request the children's meal for younger kids when you book - they handle it without fuss.
+        </p>
+        <p class="text-gray-600 leading-relaxed mb-6">
+          The key is expectation-setting. Tell the kids upfront: this is a long flight, you might not sleep the whole time, and that is fine. Movies, books, headphones. The flight is the first adventure, not the obstacle before it.
+        </p>
+        <div class="bg-white border border-forest-200 rounded-xl p-6">
+          <h3 class="font-semibold text-gray-900 mb-4">What actually helped us</h3>
+          <ul class="space-y-3">
+            {[
+              'Book seats together as early as possible. Call the airline to confirm if needed.',
+              'Pack a small bag of new, unseen items for the flight. Works better than screen time alone.',
+              'Go overnight. Kids sleep. Time passes. You arrive closer to being human.',
+              'Build in at least one recovery day at the start of your trip. We used the Queenstown Bay Playground. It was exactly right.',
+              'The return flight is easier. Everyone is tired from a great trip. Everyone sleeps.',
+            ].map((tip) => (
+              <li class="flex gap-3 text-sm text-gray-600">
+                <span class="text-forest-500 font-bold mt-0.5">&#10003;</span>
+                <span>{tip}</span>
+              </li>
+            ))}
+          </ul>
+        </div>
       </section>
 
+      <!-- Budget -->
       <section>
-        <h2 class="font-display text-2xl font-bold text-gray-900 mb-4">Budget</h2>
+        <h2 class="font-display text-2xl font-bold text-gray-900 mb-2">What It Actually Costs</h2>
+        <p class="text-gray-500 text-sm mb-5 italic">New Zealand is not cheap. Being honest about this saves a lot of stress.</p>
         <p class="text-gray-600 leading-relaxed mb-4">
-          New Zealand is not cheap. Being honest about this saves a lot of frustration during planning. Budget for the real cost and you will have a great trip; be surprised by it and the whole thing feels expensive.
+          We spent approximately $15,000-18,000 USD for five people for sixteen days, including flights. That is not a budget trip number. It is also not a reckless number for a once-in-a-decade family experience. We are not apologetic about it, but we want to be accurate.
         </p>
-        <div class="overflow-x-auto">
-          <table class="w-full text-sm text-left border-collapse">
-            <thead>
-              <tr class="border-b border-gray-200">
-                <th class="py-3 pr-6 font-semibold text-gray-900">Category</th>
-                <th class="py-3 font-semibold text-gray-900">Daily estimate (family of 4)</th>
+        <p class="text-gray-600 leading-relaxed mb-6">
+          The big costs are flights (roughly $900-1,800 per person round trip from the US depending on timing and routing), accommodation, and activities. Activities add up faster than most people plan for - the Fly-Cruise-Fly to Milford Sound alone is a significant line item. Budget for the real cost and you will have a great trip. Be surprised by it and the whole thing feels expensive even while it is happening.
+        </p>
+        <div class="overflow-x-auto rounded-xl border border-gray-100">
+          <table class="w-full text-sm text-left">
+            <thead class="bg-forest-50">
+              <tr>
+                <th class="px-5 py-3 font-semibold text-gray-900">Category</th>
+                <th class="px-5 py-3 font-semibold text-gray-900">What we paid (family of 5)</th>
+                <th class="px-5 py-3 font-semibold text-gray-900">Notes</th>
               </tr>
             </thead>
             <tbody class="divide-y divide-gray-100 text-gray-600">
-              <tr><td class="py-3 pr-6">Accommodation</td><td>$150-300 NZD</td></tr>
-              <tr><td class="py-3 pr-6">Rental car</td><td>$80-150 NZD</td></tr>
-              <tr><td class="py-3 pr-6">Food (mix of self-catering + dining)</td><td>$100-180 NZD</td></tr>
-              <tr><td class="py-3 pr-6">Activities</td><td>$50-200 NZD (varies widely)</td></tr>
-              <tr class="font-semibold text-gray-900"><td class="py-3 pr-6">Total per day</td><td>$380-830 NZD</td></tr>
+              <tr>
+                <td class="px-5 py-3">Flights (5 people)</td>
+                <td class="px-5 py-3">~$7,500-9,000 USD</td>
+                <td class="px-5 py-3">Book early. Points help significantly.</td>
+              </tr>
+              <tr>
+                <td class="px-5 py-3">Car rentals (2)</td>
+                <td class="px-5 py-3">~$635 USD + points</td>
+                <td class="px-5 py-3">South Island + North Island separate cars.</td>
+              </tr>
+              <tr>
+                <td class="px-5 py-3">Accommodation (16 nights)</td>
+                <td class="px-5 py-3">~$5,500 USD</td>
+                <td class="px-5 py-3">Mix of AirBnb, lodges, and holiday parks.</td>
+              </tr>
+              <tr>
+                <td class="px-5 py-3">Activities</td>
+                <td class="px-5 py-3">~$2,500 USD</td>
+                <td class="px-5 py-3">Milford Fly-Cruise-Fly is the biggest line.</td>
+              </tr>
+              <tr>
+                <td class="px-5 py-3">Food</td>
+                <td class="px-5 py-3">~$150-200 NZD/day</td>
+                <td class="px-5 py-3">Mix of self-catering and dining out.</td>
+              </tr>
             </tbody>
           </table>
         </div>
-        <p class="text-xs text-gray-400 mt-2">Exchange rate: check current NZD/USD. Flights are additional and typically $800-1,800 per person round trip from the US.</p>
+        <p class="text-xs text-gray-400 mt-3">All USD amounts approximate. NZD/USD fluctuates - check current rates when budgeting.</p>
       </section>
 
+      <!-- Driving -->
       <section>
-        <h2 class="font-display text-2xl font-bold text-gray-900 mb-4">Getting Around</h2>
+        <h2 class="font-display text-2xl font-bold text-gray-900 mb-2">Driving in New Zealand</h2>
+        <p class="text-gray-500 text-sm mb-5 italic">You need a car. You will drive on the left. The GPS is wrong about how long things take.</p>
         <p class="text-gray-600 leading-relaxed mb-4">
-          You need a rental car. Public transport in New Zealand is functional in cities but useless between them. With kids, a car gives you flexibility that makes the entire trip easier.
+          Public transport is functional within New Zealand cities. Between them, it is useless for a family itinerary. You need a rental car, full stop.
         </p>
-        <ul class="space-y-3 text-gray-600 text-sm">
+        <p class="text-gray-600 leading-relaxed mb-4">
+          New Zealand drives on the left. If you have never done this before, give yourself thirty minutes of calm suburban driving before you try a main road. The adjustment is faster than you expect, but the first hour is where mistakes happen. Roundabouts are everywhere and give way rules are the reverse of what most Americans are used to.
+        </p>
+        <p class="text-gray-600 leading-relaxed mb-6">
+          The other thing: Google Maps' time estimates assume sealed, straight roads at posted speed limits. The South Island has neither. A 100km drive can take two hours if the road is winding and the scenery keeps stopping you - which it will. Build in extra time, especially if you are driving through passes, along coastlines, or on the Coromandel Peninsula at night.
+        </p>
+        <div class="bg-amber-50 border border-amber-200 rounded-xl p-5">
+          <p class="text-sm font-semibold text-amber-800 mb-2">The Coromandel at Night</p>
+          <p class="text-sm text-amber-700 leading-relaxed">
+            The last stretch of our drive to Hahei happened after dark on narrow, winding coastal roads. It was fine, but it was not relaxing. Plan to arrive at your Coromandel destination before sunset. The roads are beautiful in daylight and demanding in the dark.
+          </p>
+        </div>
+      </section>
+
+      <!-- Jet lag -->
+      <section>
+        <h2 class="font-display text-2xl font-bold text-gray-900 mb-2">Jet Lag</h2>
+        <p class="text-gray-500 text-sm mb-5 italic">The time difference from the US is 16-18 hours. Here is how we handled it.</p>
+        <p class="text-gray-600 leading-relaxed mb-4">
+          New Zealand is roughly 17-18 hours ahead of US Central time. This means midnight in Whitefish Bay is late afternoon in Queenstown. Your body knows this, immediately, and does not appreciate it.
+        </p>
+        <p class="text-gray-600 leading-relaxed mb-4">
+          The kids adapted faster than we did, which is either encouraging or annoying depending on how you look at it. By day three, all three were on local time. By day three, Joe was functional but only just.
+        </p>
+        <ul class="space-y-3">
           {[
-            'New Zealand drives on the left. Plan extra time to adjust.',
-            'Roads outside cities are often narrow, winding, and slower than GPS estimates.',
-            'Book a car with a built-in GPS or download offline maps before you go.',
-            'Check if your car seats fit rental car specifications before you travel.',
+            'Build one recovery day into the start of your trip. Do not plan activities for Day 1. Full stop.',
+            'Get outside in daylight immediately on arrival. Sunlight resets your circadian rhythm faster than anything else.',
+            'Do not nap on arrival day if you can avoid it. Push through to local bedtime.',
+            'Kids adapt faster than adults. Use their energy as permission to move slowly yourself.',
+            'The return jet lag is easier. You are tired from a great trip. The adjustment happens faster.',
           ].map((tip) => (
-            <li class="flex gap-3">
-              <span class="text-forest-500 mt-0.5">&#10003;</span>
+            <li class="flex gap-3 text-sm text-gray-600">
+              <span class="text-forest-500 font-bold mt-0.5">&#10003;</span>
               <span>{tip}</span>
             </li>
           ))}
