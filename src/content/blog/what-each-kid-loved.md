@@ -17,7 +17,7 @@ The answers were illuminating. They were also completely different from what we 
 
 No hesitation. No deliberation. Just that.
 
-Landon is twelve, which means he spends a lot of energy trying to appear unimpressed by things. He deployed this skillfully throughout the trip - maintaining a composed reaction to the Shotover Jet, a measured response to Milford Sound, a polite acknowledgment of Wanaka's Rob Roy Glacier Track that suggested he was enjoying himself while technically not admitting to it.
+Landon is twelve, which means he spends a lot of energy trying to appear unimpressed by things. He deployed this skillfully throughout the trip: maintaining a composed reaction to the Shotover Jet, a measured response to Milford Sound, a polite acknowledgment of Wanaka's Rob Roy Glacier Track that suggested he was enjoying himself while technically not admitting to it.
 
 The stargazing broke him. He forgot to be twelve about it.
 
@@ -59,7 +59,7 @@ She called it her favorite thing of the trip at dinner that night. She still cal
 
 We were right that New Zealand would be spectacular. We were not entirely right about what would be spectacular.
 
-We planned for Milford Sound to be the centerpiece. It was extraordinary - the Fly-Cruise-Fly in through the mountains, the fiord walls, the waterfalls. We still talk about it. But it is not anyone's top answer.
+We planned for Milford Sound to be the centerpiece. It was extraordinary: the Fly-Cruise-Fly in through the mountains, the fiord walls, the waterfalls. We still talk about it. But it is not anyone's top answer.
 
 The top answers are a dark sky in a car park. A chaos of luge runs on a mountain above a lake. A three-dollar spade on a beach in the Coromandel.
 

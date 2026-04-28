@@ -15,7 +15,7 @@ I did not understand.
 
 ## What It Looks Like
 
-We finished the planetarium session around 10:30pm and walked outside. The guide had been excellent - she spent an hour showing us the Southern Cross, the Magellanic Clouds (two satellite galaxies visible only from the Southern Hemisphere, hanging in the sky like detached pieces of the Milky Way), and the paths of various planets. She explained how Indigenous Maori read the night sky and navigated by it for centuries before European contact.
+We finished the planetarium session around 10:30pm and walked outside. The guide had been excellent. She spent an hour showing us the Southern Cross, the Magellanic Clouds (two satellite galaxies visible only from the Southern Hemisphere, hanging in the sky like detached pieces of the Milky Way), and the paths of various planets. She explained how Indigenous Maori read the night sky and navigated by it for centuries before European contact.
 
 And then we were outside with no roof and no light and no ambient glow from anywhere.
 
@@ -33,7 +33,7 @@ She meant it as the highest possible compliment. It did look fake. It looked lik
 
 Landon (12) had done a unit on astronomy at school. He knew the names of the constellations. He knew what a light year meant. He had memorized facts that, up until that night, had been abstract.
 
-Standing in the car park, looking at the actual sky those facts described, something connected. He started quietly explaining things to Lucas and Willow. Not performing - just talking, genuinely, because suddenly the information had a shape he could point at.
+Standing in the car park, looking at the actual sky those facts described, something connected. He started quietly explaining things to Lucas and Willow. Not performing. Just talking, genuinely, because suddenly the information had a shape he could point at.
 
 Lucas asked questions. Willow asked Landon if he could see the International Space Station. He could not, but he told her when the next visible pass was going to happen.
 
@@ -47,7 +47,7 @@ We stood there for over an hour.
 
 The session runs at 9:30pm most clear nights. About 150 NZD per family. A guide walks you through the Southern Hemisphere sky, shows you the telescope, and takes you outside at the end.
 
-The inside portion is valuable - it gives the kids vocabulary and context before you step out. Without it, you are just looking at a lot of dots. With it, you are looking at things you can name.
+The inside portion is valuable. It gives the kids vocabulary and context before you step out. Without it, you are just looking at a lot of dots. With it, you are looking at things you can name.
 
 Weather caveat: clear skies are required. The lodge will tell you on the day whether conditions look right. March was reliable for us. Check conditions before booking if you can.
 

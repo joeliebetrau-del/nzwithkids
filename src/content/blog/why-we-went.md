@@ -1,6 +1,6 @@
 ---
 title: "Why We Dragged Our Kids to the Bottom of the World"
-description: "How a long-held dream turned into a sixteen-day family trip through New Zealand - and why we'd do it again without hesitation."
+description: "How a long-held dream turned into a sixteen-day family trip through New Zealand, and why we'd do it again without hesitation."
 pubDate: 2025-03-31
 tags: ["trip planning", "family travel", "New Zealand", "honest takes"]
 ---
@@ -13,7 +13,7 @@ Then we stopped solving it later.
 
 ## What We Booked
 
-Sixteen days. Mid-March. Chicago to San Francisco to Auckland to Queenstown on Air New Zealand. Two rental cars - one for the South Island, one for the North. Four nights in Queenstown, one night at Mt Cook, four nights in Wanaka, then a flight to Auckland and four nights on the Coromandel Peninsula.
+Sixteen days. Mid-March. Chicago to San Francisco to Auckland to Queenstown on Air New Zealand. Two rental cars: one for the South Island, one for the North. Four nights in Queenstown, one night at Mt Cook, four nights in Wanaka, then a flight to Auckland and four nights on the Coromandel Peninsula.
 
 The planning took months. The spreadsheet was substantial. We researched activities, compared accommodations, checked age minimums for jet boats and glacier hikes, and had at least three conversations about whether the flight was actually going to be survivable.
 

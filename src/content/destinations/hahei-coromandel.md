@@ -23,7 +23,7 @@ We gave the Coromandel four nights, based at Hahei Beach Resort. It was the righ
 
 We flew from the South Island to Auckland, picked up our second rental car at Auckland Airport, and drove north onto the peninsula. The road onto the Coromandel narrows significantly as you get into the hills. It is beautiful and manageable in daylight. We arrived in Coromandel Town in the early evening and drove on to Hahei as it got dark.
 
-That last stretch in the dark on the winding coastal roads is fine but requires attention. Our honest advice: plan to arrive at your final destination before sunset. The roads are not dangerous, but they are narrow, unlit, and unfamiliar - and you will be tired from the travel day.
+That last stretch in the dark on the winding coastal roads is fine but requires attention. Our honest advice: plan to arrive at your final destination before sunset. The roads are not dangerous, but they are narrow, unlit, and unfamiliar, and you will be tired from the travel day.
 
 ## The 309 Road and Waterworks
 
@@ -56,7 +56,7 @@ Practical notes:
 
 **15-minute walk or short kayak from Hahei Beach**
 
-Cathedral Cove is a sea arch on the coast north of Hahei - one of the most photographed spots in New Zealand and a filming location for The Chronicles of Narnia. You can walk the trail from the top of the hill (about 45 minutes each way) or kayak in from Hahei Beach, which is the better option if you have reasonably confident paddlers.
+Cathedral Cove is a sea arch on the coast north of Hahei, one of the most photographed spots in New Zealand and a filming location for The Chronicles of Narnia. You can walk the trail from the top of the hill (about 45 minutes each way) or kayak in from Hahei Beach, which is the better option if you have reasonably confident paddlers.
 
 Go early. The tour groups arrive mid-morning and it gets congested on the beach.
 
@@ -68,6 +68,6 @@ Hahei Beach Resort is a short walk from the beach access. The sea view units are
 
 ## A Note on the Coromandel Roads
 
-The inland roads on the Coromandel Peninsula are winding, narrow, and occasionally hairraising - especially after dark. They are not dangerous in the sense of requiring special driving skills, but they require full attention. Treat every blind corner as if something is coming the other way, because often something is.
+The inland roads on the Coromandel Peninsula are winding, narrow, and occasionally hairraising, especially after dark. They are not dangerous in the sense of requiring special driving skills, but they require full attention. Treat every blind corner as if something is coming the other way, because often something is.
 
 In daylight, they are beautiful. Plan accordingly.

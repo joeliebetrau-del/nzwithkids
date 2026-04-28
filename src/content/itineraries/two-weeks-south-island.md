@@ -32,7 +32,7 @@ Drive inland through the Mackenzie Basin. The turquoise color of Lake Tekapo is 
 
 ### Day 5-6: West Coast via Haast Pass
 
-One of the great drives in the world. Allow the full day - there is a lot to stop for.
+One of the great drives in the world. Allow the full day. There is a lot to stop for.
 
 ### Day 7-8: Franz Josef
 

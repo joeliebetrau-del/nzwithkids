@@ -1,6 +1,6 @@
 ---
 title: "16 Hours. Three Kids. One Very Long Night."
-description: "Everything you actually need to know about flying to New Zealand with children - including the part where it gets easier than you expected."
+description: "Everything you actually need to know about flying to New Zealand with children, including the part where it gets easier than you expected."
 pubDate: 2025-03-16
 tags: ["flights", "travel tips", "honest takes", "planning"]
 ---
@@ -21,7 +21,7 @@ Fine. Boring. Basically a warmup. Kids were excited. We had snacks. The bags wer
 
 ## San Francisco to Auckland: The Real One
 
-Sixteen hours on Air New Zealand. Overnight flight departing in the early evening, arriving the next evening local time. The math is confusing because you cross the International Date Line and March 15th essentially disappears - you leave on a Saturday and arrive on a Monday.
+Sixteen hours on Air New Zealand. Overnight flight departing in the early evening, arriving the next evening local time. The math is confusing because you cross the International Date Line and March 15th essentially disappears. You leave on a Saturday and arrive on a Monday.
 
 The plane is comfortable. The entertainment system is genuinely good. Air New Zealand's in-seat screens beat most airlines we have flown, and the selection of movies, shows, and games kept all three kids occupied in rotation.
 

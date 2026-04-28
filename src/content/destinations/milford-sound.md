@@ -25,7 +25,7 @@ Here is why the drive alternative is hard: four hours each way on a mountain roa
 
 The Fly-Cruise-Fly takes about 25 minutes each way in a small plane. The approach into Milford Sound from the air is, on its own, worth the cost. The plane threads through the Fiordland mountains on final approach, dropping below the peaks into the sound. Even the kids who were blasé about scenery went quiet.
 
-Book through Viator. Book well in advance - this fills up in peak season and weather can cause cancellations that put pressure on remaining slots.
+Book through Viator. Book well in advance. This fills up in peak season and weather can cause cancellations that put pressure on remaining slots.
 
 ## The Cruise
 
@@ -33,7 +33,7 @@ Two hours. The boat moves through the full length of the sound to the Tasman Sea
 
 Mitre Peak rises 1,692 meters from the waterline on the starboard side as you head out. It is the most photographed mountain in New Zealand. Standing next to it on the water, the scale does not make sense. You keep looking at it.
 
-The waterfalls are everywhere after rain - cascading off the tops of the walls in streams that spray into mist before they reach the water. On a dry day, you still see the permanent falls: Stirling and Bowen. On a wet day, hundreds of temporary falls appear and the whole fiord looks like it is dissolving.
+The waterfalls are everywhere after rain, cascading off the tops of the walls in streams that spray into mist before they reach the water. On a dry day, you still see the permanent falls: Stirling and Bowen. On a wet day, hundreds of temporary falls appear and the whole fiord looks like it is dissolving.
 
 Wear layers. Milford is a rainforest. It rains 200 days a year. The boat has indoor viewing areas and outdoor decks. The outdoor deck is where you want to be.
 

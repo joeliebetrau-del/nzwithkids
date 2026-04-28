@@ -26,7 +26,7 @@ Arrive, drop bags, go outside. The Queenstown Bay Playground is right on the wat
 
 ### Day 2: Skyline Gondola and Luge
 
-Take the gondola to the top, ride the luge down. Repeat. And repeat again. Budget for at least three luge runs per kid - nobody wanted to stop, and the Skyline staff made every run feel like an event. The views from the top are extraordinary even before you get on the luge.
+Take the gondola to the top, ride the luge down. Repeat. And repeat again. Budget for at least three luge runs per kid. Nobody wanted to stop, and the Skyline staff made every run feel like an event. The views from the top are extraordinary even before you get on the luge.
 
 Deer Park is worth the afternoon if you have energy left. It sits just outside town and offers close-up encounters with native and introduced animals that kids genuinely enjoy.
 
@@ -44,7 +44,7 @@ Technically a day trip from Queenstown, but it deserves its own entry. We did th
 
 The sound itself is humbling. Sheer walls of granite rising thousands of feet from black water. Waterfalls that appear and disappear as the cloud moves. Willow asked to stay.
 
-Book well in advance, especially in peak season. Weather can cancel or delay flights - build flexibility into your surrounding days.
+Book well in advance, especially in peak season. Weather can cancel or delay flights. Build flexibility into your surrounding days.
 
 ## Logistics
 

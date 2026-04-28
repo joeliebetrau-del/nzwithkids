@@ -58,7 +58,7 @@ Free. Infinite. Take the afternoon. The Wanaka waterfront has a beach where you 
 
 ## Getting There
 
-From Mt Cook: 3-hour drive via the Haast Pass road. Build in stops - the pass itself is spectacular.
+From Mt Cook: 3-hour drive via the Haast Pass road. Build in stops. The pass itself is spectacular.
 From Queenstown: 1 hour. Easy day trip access in either direction.
 
 ## Practical Notes

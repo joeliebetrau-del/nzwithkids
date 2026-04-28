@@ -31,7 +31,7 @@ At every petrol station, every cafe, every small shop on the Coromandel Peninsul
 
 ## Why It's Different
 
-I want to be careful not to be naive about this. Good service exists everywhere. But there is a specific quality to the interactions we had in New Zealand that stood out - something that went beyond training or professionalism.
+I want to be careful not to be naive about this. Good service exists everywhere. But there is a specific quality to the interactions we had in New Zealand that stood out, something that went beyond training or professionalism.
 
 Part of the explanation, I think, is economic. New Zealand pays its service workers a living wage. Tipping is not a cultural expectation because workers are not economically dependent on the practice. When someone helps you, they are not performing helpfulness in hopes of a financial reward. They are doing their job with dignity, in a culture that treats that job with dignity.
 

@@ -32,7 +32,7 @@ We flew United from Chicago to San Francisco, then Air New Zealand to Auckland (
 
 Tips:
 - Book seats together as early as possible on the Auckland leg.
-- Download movies to tablets before you board - the in-seat screens are good but having backups matters.
+- Download movies to tablets before you board. The in-seat screens are good but having backups matters.
 - Plan for 1-2 recovery days at the start. We arrived in Queenstown exhausted. The Bay Playground gave the kids somewhere to run off the jet lag.
 
 ---
@@ -43,9 +43,9 @@ Tips:
 
 Arrive, recover, and recalibrate. Queenstown is an ideal arrival city - there is plenty to look at, the waterfront is walkable, and you do not need a car to explore on your first day.
 
-**Day 1:** Queenstown Bay Playground. Let the kids run. Walk the waterfront. Stop at the archway near the harbor - look up. The words "Service Above Self" are carved above it. Hold onto that. You will see it everywhere for the next two weeks.
+**Day 1:** Queenstown Bay Playground. Let the kids run. Walk the waterfront. Stop at the archway near the harbor and look up. The words "Service Above Self" are carved above it. Hold onto that. You will see it everywhere for the next two weeks.
 
-**Day 2:** Luge and Skyline Gondola. Take the gondola up, ride the luge down, repeat. Budget for multiple luge runs - nobody will want to stop at one. Deer Park is worth the stop if you have time in the afternoon.
+**Day 2:** Luge and Skyline Gondola. Take the gondola up, ride the luge down, repeat. Budget for multiple luge runs. Nobody will want to stop at one. Deer Park is worth the stop if you have time in the afternoon.
 
 ---
 
@@ -55,9 +55,9 @@ Arrive, recover, and recalibrate. Queenstown is an ideal arrival city - there is
 
 The Shotover Jet is 30 minutes of pure kid joy - high-speed jet boat through a narrow canyon with 360-degree spins. Book the 9am slot and get there a few minutes early. Kids must be 3+ but honestly the minimum age that actually enjoys it is probably 6.
 
-The TSS Earnslaw is the other side of Queenstown: a restored 1912 steamboat that crosses Lake Wakatipu to Walter Peak Station. A calmer, gorgeous afternoon. Watch the engineers shoveling coal in the engine room - the kids were riveted.
+The TSS Earnslaw is the other side of Queenstown: a restored 1912 steamboat that crosses Lake Wakatipu to Walter Peak Station. A calmer, gorgeous afternoon. Watch the engineers shoveling coal in the engine room. The kids were riveted.
 
-Both are bookable through Viator. Cancel policies are flexible - check your confirmation.
+Both are bookable through Viator. Cancel policies are flexible. Check your confirmation.
 
 ---
 
@@ -67,7 +67,7 @@ Both are bookable through Viator. Cancel policies are flexible - check your conf
 
 This is the splurge day and it is worth it. The Fly-Cruise-Fly option means you fly into Milford Sound on a small plane (the approach through the mountains is stunning), cruise the fiord for about two hours, and fly back. No 4-hour drive each way, no bus, no lost day.
 
-Book well in advance. Weather can cancel flights on short notice - they will reschedule, but have flexibility in your itinerary if possible. Bring layers even in summer; it is a rainforest and lives up to the name.
+Book well in advance. Weather can cancel flights on short notice. They will reschedule, but have flexibility in your itinerary if possible. Bring layers even in summer; it is a rainforest and lives up to the name.
 
 ---
 

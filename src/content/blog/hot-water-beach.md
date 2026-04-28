@@ -19,7 +19,7 @@ New Zealand.
 
 The Coromandel Peninsula sits on top of significant geothermal activity. At Hot Water Beach, that activity comes within a meter of the surface in a specific stretch of shoreline. At low tide, the water table drops enough that you can dig down to it. At high tide, it is covered. For about two hours on either side of low tide, you have the window.
 
-We checked the tide tables before we went. This is not optional - it is the whole thing. The app we used was accurate to the minute.
+We checked the tide tables before we went. This is not optional. It is the whole thing. The app we used was accurate to the minute.
 
 ---
 
