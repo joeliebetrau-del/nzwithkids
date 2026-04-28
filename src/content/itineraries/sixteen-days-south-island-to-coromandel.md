@@ -20,7 +20,7 @@ This is the actual itinerary we ran in March 2025 with our three kids, ages 8, 1
 
 The South Island section is dramatic: big mountains, big drives, big activities. Wanaka is where the trip slows down in the best way. The Coromandel is a completely different New Zealand - lush, subtropical, beach-focused - and a perfect way to end before the long flight home.
 
-**Total cost (family of 5):** Approximately $15,000-18,000 USD including flights. Not cheap. Worth every dollar.
+**Total cost (family of 5):** Approximately $25,000 USD including flights. Not cheap. Worth every dollar.
 
 ---
 
@@ -115,7 +115,7 @@ A slower day in Wanaka. The lake, the waterfront, the town. In the evening, hook
 
 **Fly Queenstown/Wanaka area to Auckland | Drive to Coromandel Town**
 
-A long travel day. Pick up your second rental car in Auckland (we used Enterprise - booked with Capital One points, so effectively free). Drive north and then onto the Coromandel Peninsula.
+A long travel day. Pick up your second rental car in Auckland (we used Enterprise). Drive north and then onto the Coromandel Peninsula.
 
 The Coromandel is a different New Zealand entirely - subtropical, winding coastal roads, dense native bush. The drive into Coromandel Town is beautiful. The drive out of it in the dark is an adventure. Plan to arrive before sunset if you can.
 
