@@ -16,7 +16,7 @@ highlights:
 
 ## Overview
 
-This is the actual itinerary we ran in March 2025 with our three kids - Landon (12), Lucas (10), and Willow (8). We flew into Queenstown and out of Auckland, which meant two separate rental cars and no backtracking. It worked beautifully.
+This is the actual itinerary we ran in March 2025 with our three kids, ages 8, 10, and 12. We flew into Queenstown and out of Auckland, which meant two separate rental cars and no backtracking. It worked beautifully.
 
 The South Island section is dramatic: big mountains, big drives, big activities. Wanaka is where the trip slows down in the best way. The Coromandel is a completely different New Zealand - lush, subtropical, beach-focused - and a perfect way to end before the long flight home.
 
@@ -28,7 +28,7 @@ The South Island section is dramatic: big mountains, big drives, big activities.
 
 **Chicago - San Francisco - Auckland - Queenstown**
 
-We flew United from Chicago to San Francisco, then Air New Zealand to Auckland (16 hours), then connected to Queenstown. The Air New Zealand leg is long but manageable. The aircraft is comfortable, the entertainment system is excellent, and the crew was genuinely great with the kids. Willow got a proper kids meal without us having to fight for it.
+We flew United from Chicago to San Francisco, then Air New Zealand to Auckland (16 hours), then connected to Queenstown. The Air New Zealand leg is long but manageable. The aircraft is comfortable, the entertainment system is excellent, and the crew was genuinely great with the kids. Our eight-year-old got a proper kids meal without us having to fight for it.
 
 Tips:
 - Book seats together as early as possible on the Auckland leg.
@@ -101,7 +101,7 @@ Check into Diamond on Tenby - central, comfortable, and a short walk to the lake
 
 Day 7 is intentionally slow. Wanaka has a way of making you want to stay. Cinema Paradiso is a genuine experience - couches, intermission with fresh cookies, and films that feel different when you watch them here. Puzzle World is genuinely fun for kids (and adults).
 
-Day 8: **Rob Roy Glacier Track**, Mt Aspiring National Park. One of the best half-day walks in New Zealand. A stunning valley walk through beech forest to a glacial viewpoint - about 4 hours return. Landon and Lucas pushed the pace; Willow made it without complaint and was rewarded with the view.
+Day 8: **Rob Roy Glacier Track**, Mt Aspiring National Park. One of the best half-day walks in New Zealand. A stunning valley walk through beech forest to a glacial viewpoint - about 4 hours return. The older two pushed the pace; our eight-year-old made it without complaint and was rewarded with the view.
 
 ---
 
@@ -125,7 +125,7 @@ The Coromandel is a different New Zealand entirely - subtropical, winding coasta
 
 **Coromandel Town to Hahei | The 309 Road**
 
-The 309 is a gravel road that cuts across the peninsula through native forest. Stop at the Waterworks - an eccentric water-powered art installation and playground that is genuinely delightful. Landon and Lucas were completely absorbed for two hours. Willow declared it her favorite thing of the trip.
+The 309 is a gravel road that cuts across the peninsula through native forest. Stop at the Waterworks - an eccentric water-powered art installation and playground that is genuinely delightful. The older two were completely absorbed for two hours. Our eight-year-old declared it her favorite thing of the trip.
 
 Continue to Hahei. Check in at Hahei Beach Resort.
 

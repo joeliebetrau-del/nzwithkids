@@ -32,7 +32,7 @@ Deer Park is worth the afternoon if you have energy left. It sits just outside t
 
 ### Day 3: Shotover Jet + TSS Earnslaw
 
-**Morning:** The Shotover Jet departs at 9am sharp. Get there a few minutes early. Thirty minutes of high-speed jet boat through the Shotover River canyon, with 360-degree spins that produce screaming and immediate requests to go again. Landon and Lucas were loud about this being a trip highlight. Willow (8) was nervous beforehand and grinning throughout.
+**Morning:** The Shotover Jet departs at 9am sharp. Get there a few minutes early. Thirty minutes of high-speed jet boat through the Shotover River canyon, with 360-degree spins that produce screaming and immediate requests to go again. The older two were loud about this being a trip highlight. Our eight-year-old was nervous beforehand and grinning throughout.
 
 **Afternoon:** The TSS Earnslaw is the counterpoint - a beautifully restored 1912 steamboat crossing Lake Wakatipu to Walter Peak Station. Watch the coal-powered engine room on the way over. Have lunch at the station. Cruise back. A slower, beautiful afternoon that the whole family enjoyed in a completely different way.
 
@@ -42,7 +42,7 @@ Book both through Viator. Both have flexible cancellation. The Earnslaw booking 
 
 Technically a day trip from Queenstown, but it deserves its own entry. We did the Fly-Cruise-Fly option - small plane in, two-hour cruise, small plane back. The approach through the Fiordland mountains on the inbound flight is one of the most dramatic things we have ever seen from an aircraft.
 
-The sound itself is humbling. Sheer walls of granite rising thousands of feet from black water. Waterfalls that appear and disappear as the cloud moves. Willow asked to stay.
+The sound itself is humbling. Sheer walls of granite rising thousands of feet from black water. Waterfalls that appear and disappear as the cloud moves. Our eight-year-old asked to stay.
 
 Book well in advance, especially in peak season. Weather can cancel or delay flights. Build flexibility into your surrounding days.
 

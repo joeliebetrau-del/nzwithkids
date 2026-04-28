@@ -23,17 +23,17 @@ We checked the tide tables before we went. This is not optional. It is the whole
 
 ---
 
-## What Landon Did
+## What Our 12-Year-Old Did
 
-Landon (12) arrived skeptical. He had heard about Hot Water Beach from us for two weeks and had that polite, slightly bored expression twelve-year-olds deploy when they have decided something sounds like a parent idea.
+Our twelve-year-old arrived skeptical. He had heard about Hot Water Beach from us for two weeks and had that polite, slightly bored expression twelve-year-olds deploy when they have decided something sounds like a parent idea.
 
-He dug for forty-five minutes straight. He designed a channel system to regulate the cold-water intake. He recruited Lucas to dig a connecting pool. He was still in the water when we had to drag him out.
+He dug for forty-five minutes straight. He designed a channel system to regulate the cold-water intake. He recruited his ten-year-old brother to dig a connecting pool. He was still in the water when we had to drag him out.
 
 ---
 
-## What Willow Did
+## What Our 8-Year-Old Did
 
-Willow (8) burned her foot slightly in the first sixty seconds by stepping directly onto the vent before we had properly mixed in cold water. This is a rite of passage. She recovered immediately, relocated to a better-mixed section, and spent the next hour declaring the temperature perfect and resisting any suggestion of leaving.
+Our eight-year-old burned her foot slightly in the first sixty seconds by stepping directly onto the vent before we had properly mixed in cold water. This is a rite of passage. She recovered immediately, relocated to a better-mixed section, and spent the next hour declaring the temperature perfect and resisting any suggestion of leaving.
 
 ---
 

@@ -7,7 +7,7 @@ tags: ["trip planning", "family travel", "New Zealand", "honest takes"]
 
 It started, as most big decisions do, with a long conversation and a clear moment when we both knew we were going to stop talking and actually do it.
 
-We had been talking about New Zealand for years. The scenery. The people. The fact that it was about as far from Whitefish Bay, Wisconsin as a place could physically be. But with three kids - Landon, Lucas, and Willow - the logistics kept stopping us. The 16-hour flight felt like a wall we would never climb. The cost felt like a negotiation we were not ready to have with ourselves. The jet lag with an eight-year-old felt like something we described as a problem to solve later.
+We had been talking about New Zealand for years. The scenery. The people. The fact that it was about as far from Milwaukee, Wisconsin as a place could physically be. But with three kids, the logistics kept stopping us. The 16-hour flight felt like a wall we would never climb. The cost felt like a negotiation we were not ready to have with ourselves. The jet lag with an eight-year-old felt like something we described as a problem to solve later.
 
 Then we stopped solving it later.
 
@@ -21,9 +21,9 @@ It was.
 
 ## What We Actually Did
 
-We rode a jet boat through a narrow canyon at high speed. We cruised a fiord under thousand-foot cliffs. We hiked to a glacial lake at the foot of New Zealand's highest peak. We stood in the dark in a car park in Mt Cook and watched the Milky Way appear, and then watched Landon explain constellations to his younger siblings.
+We rode a jet boat through a narrow canyon at high speed. We cruised a fiord under thousand-foot cliffs. We hiked to a glacial lake at the foot of New Zealand's highest peak. We stood in the dark in a car park in Mt Cook and watched the Milky Way appear, and then watched our twelve-year-old explain constellations to his younger siblings.
 
-We did a luge. Multiple times. Willow wanted to keep going until they closed the gondola for the night.
+We did a luge. Multiple times. Our eight-year-old wanted to keep going until they closed the gondola for the night.
 
 We fished for salmon and ate what we caught. We dug a hot pool on a beach where geothermal water seeps up through the sand at low tide. We drove winding coastal roads through subtropical forest in the dark on the Coromandel and arrived, intact, at one of the most beautiful beaches in the world.
 

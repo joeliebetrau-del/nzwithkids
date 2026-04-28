@@ -19,11 +19,11 @@ Over the next two weeks, we stopped needing to talk about it.
 
 It started at the activity desk the next morning. We were sorting out times for the Shotover Jet and the Earnslaw steamboat. The woman at the counter spent twenty minutes with us - not rushing, not distracted, not watching the door for the next customer. She made sure we understood the logistics, suggested a sequence that would work better for kids, and sent us off with a genuine "have a great day" that sounded like she meant it.
 
-At the Earnslaw boat, the crew running the engine room tour noticed Lucas peering through the window and invited him in for a closer look. Nobody asked them to do that. It was not part of the job description. They just did it.
+At the Earnslaw boat, the crew running the engine room tour noticed our ten-year-old peering through the window and invited him in for a closer look. Nobody asked them to do that. It was not part of the job description. They just did it.
 
 At Mt Cook, we arrived at our lodge at nearly 9pm after a long driving day. The person at the desk did not make us feel like an inconvenience. They showed us where everything was, told us the stargazing conditions looked good for the night, and asked if the kids were excited.
 
-At the salmon fishing dinner in Wanaka, the owner spent an hour teaching Landon how to read the water before he ever picked up a rod.
+At the salmon fishing dinner in Wanaka, the owner spent an hour teaching our twelve-year-old how to read the water before he ever picked up a rod.
 
 At every petrol station, every cafe, every small shop on the Coromandel Peninsula: engaged, present, kind.
 
@@ -43,7 +43,7 @@ The difference is real and you feel it within a day.
 
 Kids watch how adults treat other people. They are always watching.
 
-Landon (12) is at the age where he notices these things and files them away. On one of our last evenings, he mentioned unprompted that people in New Zealand seemed "actually happy to help." He could not fully articulate why it felt different from what he was used to. But he noticed.
+Our twelve-year-old is at the age where he notices these things and files them away. On one of our last evenings, he mentioned unprompted that people in New Zealand seemed "actually happy to help." He could not fully articulate why it felt different from what he was used to. But he noticed.
 
 That is something.
 

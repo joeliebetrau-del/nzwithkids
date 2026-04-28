@@ -31,7 +31,7 @@ The road from Queenstown or Lake Tekapo into Mt Cook Village is one of the great
 
 Start early, before the day trippers from Tekapo arrive. The trail follows the Hooker River through three swing bridges to a glacial lake directly below the southwest face of Aoraki. The mountain fills the frame at the end.
 
-Willow (8) did the full trail without issue. The swing bridges are a highlight for kids. They sway enough to be exciting but are completely safe. The glacial lake at the end has floating ice on calm days, even in summer.
+Our eight-year-old did the full trail without issue. The swing bridges are a highlight for kids. They sway enough to be exciting but are completely safe. The glacial lake at the end has floating ice on calm days, even in summer.
 
 Allow 3 hours at a comfortable pace. Bring layers. It can be cold in the valley even when it's warm outside.
 
@@ -41,7 +41,7 @@ Allow 3 hours at a comfortable pace. Bring layers. It can be cold in the valley 
 
 Aoraki/Mt Cook is a Gold-rated International Dark Sky Reserve - one of only a handful in the world. The planetarium session at the observatory runs most clear nights and provides context for what you are seeing. But the real experience is outside: the guide points out constellations, shows the Magellanic Clouds (two satellite galaxies visible only from the Southern Hemisphere), and lets you look through the telescope.
 
-Landon had studied some astronomy in school. Watching him explain things to Lucas and Willow in the car park afterward was one of the best parenting moments of the trip.
+Our twelve-year-old had studied some astronomy in school. Watching him explain things to his younger siblings in the car park afterward was one of the best parenting moments of the trip.
 
 Book this as soon as you confirm your Mt Cook dates. It sells out.
 

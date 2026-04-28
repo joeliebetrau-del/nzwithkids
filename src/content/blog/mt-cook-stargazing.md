@@ -23,19 +23,19 @@ The Milky Way was not a faint smear. It was a structure. You could see depth in 
 
 Nobody said anything for a long time.
 
-Willow eventually said: "It looks fake."
+Our eight-year-old eventually said: "It looks fake."
 
 She meant it as the highest possible compliment. It did look fake. It looked like a backdrop from a movie made by someone who had never seen a real sky and was guessing.
 
 ---
 
-## How Landon Made It Better
+## How Our 12-Year-Old Made It Better
 
-Landon (12) had done a unit on astronomy at school. He knew the names of the constellations. He knew what a light year meant. He had memorized facts that, up until that night, had been abstract.
+Our twelve-year-old had done a unit on astronomy at school. He knew the names of the constellations. He knew what a light year meant. He had memorized facts that, up until that night, had been abstract.
 
-Standing in the car park, looking at the actual sky those facts described, something connected. He started quietly explaining things to Lucas and Willow. Not performing. Just talking, genuinely, because suddenly the information had a shape he could point at.
+Standing in the car park, looking at the actual sky those facts described, something connected. He started quietly explaining things to his younger brother and sister. Not performing. Just talking, genuinely, because suddenly the information had a shape he could point at.
 
-Lucas asked questions. Willow asked Landon if he could see the International Space Station. He could not, but he told her when the next visible pass was going to happen.
+The ten-year-old asked questions. Our eight-year-old asked her brother if he could see the International Space Station. He could not, but he told her when the next visible pass was going to happen.
 
 We stood there for over an hour.
 
@@ -71,7 +71,7 @@ If you can stay two nights: stay two nights. The sky will be there on both of th
 
 Not many photos of the sky. You cannot photograph what we saw with a phone camera, and we knew it, so we mostly did not try. The images that exist are blurry and unconvincing and bear no resemblance to what we actually experienced.
 
-What we brought home was Landon's voice explaining constellations to his younger siblings in the dark. Willow's verdict that it looked fake. The silence that came before any of that.
+What we brought home was our twelve-year-old's voice explaining constellations to his younger siblings in the dark. The eight-year-old's verdict that it looked fake. The silence that came before any of that.
 
 You can look at photographs of the night sky from anywhere. You cannot look at *that* sky from anywhere else.
 

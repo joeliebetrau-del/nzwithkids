@@ -27,12 +27,12 @@ The plane is comfortable. The entertainment system is genuinely good. Air New Ze
 
 **What worked:**
 - Booking seats together well in advance. We called ahead to confirm seating arrangements and locked in positions with the kids between us.
-- The activity bag. Before the trip, we bought three small backpacks and filled each one with a few items the kids had not seen before - new books, small puzzles, a card game. Willow's was loaded after about four hours. Lucas's lasted until hour ten. Landon basically watched movies and considered himself above the activity bag, which is developmentally appropriate at twelve.
-- The kids' meal for Willow. Air New Zealand does this without complaint. Request it when you book.
+- The activity bag. Before the trip, we bought three small backpacks and filled each one with a few items the kids had not seen before: new books, small puzzles, a card game. Our eight-year-old's was loaded after about four hours. The ten-year-old's lasted until hour ten. Our twelve-year-old basically watched movies and considered himself above the activity bag, which is developmentally appropriate at his age.
+- The kids' meal for our eight-year-old. Air New Zealand does this without complaint. Request it when you book.
 - Accepting the jet lag math early. We told the kids: you might not sleep the whole flight. That is okay. Watch movies. Rest your eyes. We are not going to fight the clock.
 
 **What did not work:**
-- Assuming we would sleep. Joe got three hours. Lisa got two. The kids did better.
+- Assuming we would sleep. The adults got two or three hours each. The kids did better.
 - Forgetting that sixteen hours is a long time to sit. Get up. Walk the aisle. Stretch. We did not do enough of this in the first half of the flight and paid for it.
 
 ---
@@ -41,7 +41,7 @@ The plane is comfortable. The entertainment system is genuinely good. Air New Ze
 
 We landed in Auckland late in the evening, cleared customs (smooth, straightforward - have your declarations form ready), and caught the connecting flight to Queenstown.
 
-By the time we landed in Queenstown and got to the AirBnb, it was approaching midnight local time and somewhere around 5am on whatever day we thought it was. The kids were operating on pure adrenaline. Joe and Lisa were operating on nothing.
+By the time we landed in Queenstown and got to the AirBnb, it was approaching midnight local time and somewhere around 5am on whatever day we thought it was. The kids were operating on pure adrenaline. We were operating on nothing.
 
 **The first morning:** Do not plan activities. We went to the Queenstown Bay Playground and let the kids run while we sat on a bench in the sun and slowly rejoined the living. That was exactly right. Give yourself one recovery day. Build it into the itinerary before you leave home.
 

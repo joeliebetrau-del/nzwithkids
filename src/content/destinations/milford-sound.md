@@ -47,11 +47,11 @@ If the flight is cancelled, the drive is still worth doing. Four hours is a long
 
 ## What the Kids Said
 
-Lucas said it was "like being inside a movie." He meant it as a compliment.
+Our ten-year-old said it was "like being inside a movie." He meant it as a compliment.
 
-Willow wanted to know if anyone lived there. We told her about the tiny permanent population that services the tourism infrastructure. She was unsatisfied with this answer and suggested it needed more residents.
+Our eight-year-old wanted to know if anyone lived there. We told her about the tiny permanent population that services the tourism infrastructure. She was unsatisfied with this answer and suggested it needed more residents.
 
-Landon took his phone out for the first time in two days and started photographing, then put it away because he could see it was not working, then stood at the rail and watched.
+Our twelve-year-old took his phone out for the first time in two days and started photographing, then put it away because he could see it was not working, then stood at the rail and watched.
 
 ## Getting the Most Out of It
 

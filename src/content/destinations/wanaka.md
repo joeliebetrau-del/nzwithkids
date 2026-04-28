@@ -26,7 +26,7 @@ This is the best thing we did in Wanaka and one of the best half-days of the ent
 
 The track heads into Mt Aspiring National Park through silver beech forest before opening into a dramatic hanging valley with views of the Rob Roy Glacier above. The glacier is receding but still extraordinary - ice cliffs and waterfalls tumbling off the moraine directly in front of you.
 
-Landon and Lucas pushed the pace on the way up. Willow (8) made it to the top without complaint and declared it "actually really cool." That is high praise from an eight-year-old who had just spent four days doing luge runs and jet boats.
+The older two pushed the pace on the way up. Our eight-year-old made it to the top without complaint and declared it "actually really cool." That is high praise from an eight-year-old who had just spent four days doing luge runs and jet boats.
 
 Practical notes:
 - The road to the trailhead is gravel and requires crossing a ford. Standard rental cars manage fine in normal conditions.
@@ -38,7 +38,7 @@ Practical notes:
 
 **Allow 2-3 hours | All ages**
 
-Puzzle World is the kind of place that looks like a tourist trap from the outside and turns out to be genuinely great. Four interconnected puzzle rooms, an outdoor maze, and a series of optical illusions that actually work. Landon (12) was skeptical and then absorbed for two hours. Lucas attempted the maze multiple times. Willow wanted to start over from the beginning.
+Puzzle World is the kind of place that looks like a tourist trap from the outside and turns out to be genuinely great. Four interconnected puzzle rooms, an outdoor maze, and a series of optical illusions that actually work. Our twelve-year-old was skeptical and then absorbed for two hours. The ten-year-old attempted the maze multiple times. Our eight-year-old wanted to start over from the beginning.
 
 It is not cheap, but it is worth the price for a rest day when you want something low-key that keeps all three kids engaged.
 

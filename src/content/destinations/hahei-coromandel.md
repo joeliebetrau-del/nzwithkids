@@ -31,7 +31,7 @@ That last stretch in the dark on the winding coastal roads is fine but requires 
 
 The 309 is a gravel road that cuts across the Coromandel Peninsula through native forest. It is rougher than a sealed road but perfectly manageable in a standard rental car. Make time for the Waterworks.
 
-The Waterworks is a water-powered art installation and playground that is difficult to describe and easy to love. Dozens of creative contraptions powered by flowing water - wheels, bells, pumps, pendulums, fountains. Kids can interact with all of it. Landon and Lucas immediately started competing. Willow declared it her favorite thing of the entire trip.
+The Waterworks is a water-powered art installation and playground that is difficult to describe and easy to love. Dozens of creative contraptions powered by flowing water - wheels, bells, pumps, pendulums, fountains. Kids can interact with all of it. The older two immediately started competing. Our eight-year-old declared it her favorite thing of the entire trip.
 
 It is also free to enter. A New Zealand institution hiding in plain sight.
 
@@ -50,7 +50,7 @@ Practical notes:
 - Hire a spade from the shop near the beach access. They rent them specifically for this.
 - Go early or late in the day to avoid the midday crowd. It gets busy.
 - The water can be very hot in the central area. Keep younger kids toward the edges and mix in cold water.
-- Willow (8) understood this immediately and set up her own temperature zone.
+- Our eight-year-old understood this immediately and set up her own temperature zone.
 
 ## Cathedral Cove
 
