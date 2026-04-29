@@ -19,7 +19,7 @@ We finished the planetarium session around 10:30pm and walked outside. The guide
 
 And then we were outside with no roof and no light and no ambient glow from anywhere.
 
-The Milky Way was not a faint smear. It was a structure. You could see depth in it - brighter bands and darker lanes and clusters that resolved into something almost three-dimensional if you looked long enough. The Magellanic Clouds were right where she had said they would be. Stars that are invisible from any city on earth were just... there.
+The Milky Way was not a faint smear. It was a structure. You could see depth in it, brighter bands and darker lanes and clusters that resolved into something almost three-dimensional if you looked long enough. The Magellanic Clouds were right where she had said they would be. Stars that are invisible from any city on earth were just... there.
 
 Nobody said anything for a long time.
 

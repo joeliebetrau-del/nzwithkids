@@ -4,9 +4,9 @@ description: "One night is not enough. But even one night under the darkest sky 
 region: "Mackenzie"
 kidRating: 5
 highlights:
-  - "International Dark Sky Reserve - Milky Way visible to the naked eye"
+  - "International Dark Sky Reserve, Milky Way visible to the naked eye"
   - "Stargazing Planetarium at 9:30pm"
-  - "Hooker Valley Trail - 10km with glacial lake payoff"
+  - "Hooker Valley Trail, 10km with glacial lake payoff"
   - "The drive in through the Mackenzie Basin"
   - "Lake Tekapo turquoise color (not a filter)"
 ---
@@ -39,7 +39,7 @@ Allow 3 hours at a comfortable pace. Bring layers. It can be cold in the valley 
 
 **9:30pm | ~150 NZD | Book in advance**
 
-Aoraki/Mt Cook is a Gold-rated International Dark Sky Reserve - one of only a handful in the world. The planetarium session at the observatory runs most clear nights and provides context for what you are seeing. But the real experience is outside: the guide points out constellations, shows the Magellanic Clouds (two satellite galaxies visible only from the Southern Hemisphere), and lets you look through the telescope.
+Aoraki/Mt Cook is a Gold-rated International Dark Sky Reserve, one of only a handful in the world. The planetarium session at the observatory runs most clear nights and provides context for what you are seeing. But the real experience is outside: the guide points out constellations, shows the Magellanic Clouds (two satellite galaxies visible only from the Southern Hemisphere), and lets you look through the telescope.
 
 Our twelve-year-old had studied some astronomy in school. Watching him explain things to his younger siblings in the car park afterward was one of the best parenting moments of the trip.
 

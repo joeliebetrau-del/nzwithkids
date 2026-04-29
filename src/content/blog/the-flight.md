@@ -39,7 +39,7 @@ The plane is comfortable. The entertainment system is genuinely good. Air New Ze
 
 ## Arriving in Auckland. Then Queenstown.
 
-We landed in Auckland late in the evening, cleared customs (smooth, straightforward - have your declarations form ready), and caught the connecting flight to Queenstown.
+We landed in Auckland late in the evening, cleared customs (smooth, straightforward, have your declarations form ready), and caught the connecting flight to Queenstown.
 
 By the time we landed in Queenstown and got to the AirBnb, it was approaching midnight local time and somewhere around 5am on whatever day we thought it was. The kids were operating on pure adrenaline. We were operating on nothing.
 

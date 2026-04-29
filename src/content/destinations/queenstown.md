@@ -4,8 +4,8 @@ description: "New Zealand's adventure capital delivers for families in ways you 
 region: "Queenstown"
 kidRating: 5
 highlights:
-  - "Skyline Gondola and Luge - do multiple runs"
-  - "Shotover Jet - 30 minutes of pure kid joy"
+  - "Skyline Gondola and Luge, do multiple runs"
+  - "Shotover Jet, 30 minutes of pure kid joy"
   - "TSS Earnslaw steamboat to Walter Peak"
   - "Fly-Cruise-Fly Milford Sound as a day trip"
   - "Queenstown Bay Playground for jet lag recovery"

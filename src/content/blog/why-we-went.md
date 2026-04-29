@@ -31,7 +31,7 @@ We fished for salmon and ate what we caught. We dug a hot pool on a beach where 
 
 The people.
 
-We expected spectacular scenery - we got it. We expected good food - we got it. We did not expect the consistent, genuine quality of every single human interaction we had for sixteen days.
+We expected spectacular scenery, we got it. We expected good food, we got it. We did not expect the consistent, genuine quality of every single human interaction we had for sixteen days.
 
 New Zealand has a phrase posted on an archway in the Queenstown waterfront: "Service Above Self." We saw it on day one. We watched it mean something for the rest of the trip. It is not a hospitality training slogan there. It is a description of a culture that actually pays its workers fairly and treats service as something worth doing with dignity.
 

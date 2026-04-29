@@ -1,6 +1,6 @@
 ---
 title: "Two Weeks on the South Island"
-description: "The classic South Island loop - Christchurch to Queenstown via the West Coast - paced for families with kids aged 5-12."
+description: "The classic South Island loop, Christchurch to Queenstown via the West Coast, paced for families with kids aged 5-12."
 duration: "14 days"
 kidAges: "5-12"
 regions: ["Canterbury", "West Coast", "Fiordland", "Queenstown"]
@@ -20,7 +20,7 @@ This two-week loop is the sweet spot for first-time visitors to New Zealand's So
 
 ### Day 1-2: Christchurch
 
-Arrive, recover, and shake off the jet lag. Christchurch is an ideal landing city - flat, walkable, and genuinely interesting after the rebuilding from the 2011 earthquake.
+Arrive, recover, and shake off the jet lag. Christchurch is an ideal landing city, flat, walkable, and genuinely interesting after the rebuilding from the 2011 earthquake.
 
 **Don't miss:** The Botanic Gardens, punting on the Avon, and the Canterbury Museum (free, and kids love it).
 

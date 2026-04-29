@@ -17,7 +17,7 @@ Over the next two weeks, we stopped needing to talk about it.
 
 ## What We Noticed
 
-It started at the activity desk the next morning. We were sorting out times for the Shotover Jet and the Earnslaw steamboat. The woman at the counter spent twenty minutes with us - not rushing, not distracted, not watching the door for the next customer. She made sure we understood the logistics, suggested a sequence that would work better for kids, and sent us off with a genuine "have a great day" that sounded like she meant it.
+It started at the activity desk the next morning. We were sorting out times for the Shotover Jet and the Earnslaw steamboat. The woman at the counter spent twenty minutes with us, not rushing, not distracted, not watching the door for the next customer. She made sure we understood the logistics, suggested a sequence that would work better for kids, and sent us off with a genuine "have a great day" that sounded like she meant it.
 
 At the Earnslaw boat, the crew running the engine room tour noticed our ten-year-old peering through the window and invited him in for a closer look. Nobody asked them to do that. It was not part of the job description. They just did it.
 
@@ -47,7 +47,7 @@ Our twelve-year-old is at the age where he notices these things and files them a
 
 That is something.
 
-We did not plan New Zealand as a lesson in anything. We planned it as a trip. But the clearest thing we are bringing home - clearer than the photos of the Milky Way over Mt Cook, clearer than the memory of the Shotover Jet, clearer even than the hot pools at the edge of the Pacific - is a question our kids are now equipped to ask:
+We did not plan New Zealand as a lesson in anything. We planned it as a trip. But the clearest thing we are bringing home, clearer than the photos of the Milky Way over Mt Cook, clearer than the memory of the Shotover Jet, clearer even than the hot pools at the edge of the Pacific, is a question our kids are now equipped to ask:
 
 *What would it look like to treat people the way those people treated us?*
 

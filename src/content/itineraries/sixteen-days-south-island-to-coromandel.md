@@ -1,6 +1,6 @@
 ---
 title: "16 Days: South Island to Coromandel"
-description: "Our actual family trip - Queenstown, Mt Cook, Wanaka, and finishing on the Coromandel Peninsula. Two islands, two rental cars, three kids."
+description: "Our actual family trip: Queenstown, Mt Cook, Wanaka, and finishing on the Coromandel Peninsula. Two islands, two rental cars, three kids."
 duration: "16 days"
 kidAges: "8-12"
 regions: ["Queenstown", "Mackenzie", "Otago", "Coromandel"]
@@ -11,14 +11,14 @@ highlights:
   - "Rob Roy Glacier Track in Mt Aspiring National Park"
   - "Shotover Jet and Skyline Luge in Queenstown"
   - "Hot Water Beach on the Coromandel Peninsula"
-  - "309 Road Waterworks - a hidden gem kids love"
+  - "309 Road Waterworks, a hidden gem kids love"
 ---
 
 ## Overview
 
 This is the actual itinerary we ran in March 2025 with our three kids, ages 8, 10, and 12. We flew into Queenstown and out of Auckland, which meant two separate rental cars and no backtracking. It worked beautifully.
 
-The South Island section is dramatic: big mountains, big drives, big activities. Wanaka is where the trip slows down in the best way. The Coromandel is a completely different New Zealand - lush, subtropical, beach-focused - and a perfect way to end before the long flight home.
+The South Island section is dramatic: big mountains, big drives, big activities. Wanaka is where the trip slows down in the best way. The Coromandel is a completely different New Zealand, lush, subtropical, beach-focused, and a perfect way to end before the long flight home.
 
 **Total cost (family of 5):** Approximately $25,000 USD including flights. Not cheap. Worth every dollar.
 
@@ -26,7 +26,7 @@ The South Island section is dramatic: big mountains, big drives, big activities.
 
 ## The Flight
 
-**Chicago - San Francisco - Auckland - Queenstown**
+**Chicago, San Francisco, Auckland, Queenstown**
 
 We flew United from Chicago to San Francisco, then Air New Zealand to Auckland (16 hours), then connected to Queenstown. The Air New Zealand leg is long but manageable. The aircraft is comfortable, the entertainment system is excellent, and the crew was genuinely great with the kids. Our eight-year-old got a proper kids meal without us having to fight for it.
 
@@ -41,7 +41,7 @@ Tips:
 
 **Night location:** Queenstown (AirBnb)
 
-Arrive, recover, and recalibrate. Queenstown is an ideal arrival city - there is plenty to look at, the waterfront is walkable, and you do not need a car to explore on your first day.
+Arrive, recover, and recalibrate. Queenstown is an ideal arrival city. There is plenty to look at, the waterfront is walkable, and you do not need a car to explore on your first day.
 
 **Day 1:** Queenstown Bay Playground. Let the kids run. Walk the waterfront. Stop at the archway near the harbor and look up. The words "Service Above Self" are carved above it. Hold onto that. You will see it everywhere for the next two weeks.
 
@@ -53,7 +53,7 @@ Arrive, recover, and recalibrate. Queenstown is an ideal arrival city - there is
 
 **Shotover Jet (morning) + Earnslaw Steamboat (afternoon)**
 
-The Shotover Jet is 30 minutes of pure kid joy - high-speed jet boat through a narrow canyon with 360-degree spins. Book the 9am slot and get there a few minutes early. Kids must be 3+ but honestly the minimum age that actually enjoys it is probably 6.
+The Shotover Jet is 30 minutes of pure kid joy, a high-speed jet boat through a narrow canyon with 360-degree spins. Book the 9am slot and get there a few minutes early. Kids must be 3+ but honestly the minimum age that actually enjoys it is probably 6.
 
 The TSS Earnslaw is the other side of Queenstown: a restored 1912 steamboat that crosses Lake Wakatipu to Walter Peak Station. A calmer, gorgeous afternoon. Watch the engineers shoveling coal in the engine room. The kids were riveted.
 
@@ -75,7 +75,7 @@ Book well in advance. Weather can cancel flights on short notice. They will resc
 
 **3.5-hour drive | Night: Aoraki Court Mt Cook Village**
 
-One of the great drives in the world. The road through the Mackenzie Basin opens up into something that does not look real - turquoise lakes, tussock plains, and the Southern Alps rising in front of you. Stop at Lake Tekapo. The color is not a filter.
+One of the great drives in the world. The road through the Mackenzie Basin opens up into something that does not look real, turquoise lakes, tussock plains, and the Southern Alps rising in front of you. Stop at Lake Tekapo. The color is not a filter.
 
 **Evening: Stargazing Planetarium at Mt Cook (9:30pm, ~150 NZD)**
 
@@ -91,7 +91,7 @@ The Hooker Valley Trail is 10km return (about 3 hours) and leads to a glacial la
 
 Then drive to Wanaka. The road over Haast Pass is spectacular. Allow extra time to stop.
 
-Check into Diamond on Tenby - central, comfortable, and a short walk to the lake.
+Check into Diamond on Tenby, central, comfortable, and a short walk to the lake.
 
 ---
 
@@ -99,25 +99,25 @@ Check into Diamond on Tenby - central, comfortable, and a short walk to the lake
 
 **Night: Wanaka (4 nights total)**
 
-Day 7 is intentionally slow. Wanaka has a way of making you want to stay. Cinema Paradiso is a genuine experience - couches, intermission with fresh cookies, and films that feel different when you watch them here. Puzzle World is genuinely fun for kids (and adults).
+Day 7 is intentionally slow. Wanaka has a way of making you want to stay. Cinema Paradiso is a genuine experience, couches, intermission with fresh cookies, and films that feel different when you watch them here. Puzzle World is genuinely fun for kids (and adults).
 
-Day 8: **Rob Roy Glacier Track**, Mt Aspiring National Park. One of the best half-day walks in New Zealand. A stunning valley walk through beech forest to a glacial viewpoint - about 4 hours return. The older two pushed the pace; our eight-year-old made it without complaint and was rewarded with the view.
-
----
-
-## Day 9: Wanaka - Salmon Fishing Dinner
-
-A slower day in Wanaka. The lake, the waterfront, the town. In the evening, hook salmon fishing - a unique local experience where you fish in a trout/salmon pond and they cook your catch. Kids loved it. Nobody went home hungry.
+Day 8: **Rob Roy Glacier Track**, Mt Aspiring National Park. One of the best half-day walks in New Zealand. A stunning valley walk through beech forest to a glacial viewpoint, about 4 hours return. The older two pushed the pace; our eight-year-old made it without complaint and was rewarded with the view.
 
 ---
 
-## Day 10: Travel Day - South Island to Coromandel
+## Day 9: Wanaka, Salmon Fishing Dinner
+
+A slower day in Wanaka. The lake, the waterfront, the town. In the evening, hook salmon fishing, a unique local experience where you fish in a trout/salmon pond and they cook your catch. Kids loved it. Nobody went home hungry.
+
+---
+
+## Day 10: Travel Day, South Island to Coromandel
 
 **Fly Queenstown/Wanaka area to Auckland | Drive to Coromandel Town**
 
 A long travel day. Pick up your second rental car in Auckland (we used Enterprise). Drive north and then onto the Coromandel Peninsula.
 
-The Coromandel is a different New Zealand entirely - subtropical, winding coastal roads, dense native bush. The drive into Coromandel Town is beautiful. The drive out of it in the dark is an adventure. Plan to arrive before sunset if you can.
+The Coromandel is a different New Zealand entirely, subtropical, winding coastal roads, dense native bush. The drive into Coromandel Town is beautiful. The drive out of it in the dark is an adventure. Plan to arrive before sunset if you can.
 
 ---
 
@@ -125,7 +125,7 @@ The Coromandel is a different New Zealand entirely - subtropical, winding coasta
 
 **Coromandel Town to Hahei | The 309 Road**
 
-The 309 is a gravel road that cuts across the peninsula through native forest. Stop at the Waterworks - an eccentric water-powered art installation and playground that is genuinely delightful. The older two were completely absorbed for two hours. Our eight-year-old declared it her favorite thing of the trip.
+The 309 is a gravel road that cuts across the peninsula through native forest. Stop at the Waterworks, an eccentric water-powered art installation and playground that is genuinely delightful. The older two were completely absorbed for two hours. Our eight-year-old declared it her favorite thing of the trip.
 
 Continue to Hahei. Check in at Hahei Beach Resort.
 
@@ -135,11 +135,11 @@ Continue to Hahei. Check in at Hahei Beach Resort.
 
 **3 nights | The whole point of the Coromandel**
 
-Hot Water Beach is exactly what it sounds like: a beach where geothermal water seeps up through the sand, and at low tide, you dig your own hot pool at the water's edge. Hire a spade from the shop near the beach. Go at low tide (check the tide tables - there is a 2-hour window on either side).
+Hot Water Beach is exactly what it sounds like: a beach where geothermal water seeps up through the sand, and at low tide, you dig your own hot pool at the water's edge. Hire a spade from the shop near the beach. Go at low tide (check the tide tables, there is a 2-hour window on either side).
 
 We went twice. It was worth going twice.
 
-Cathedral Cove is a short kayak or walk away - a dramatic sea arch that is one of the most photographed spots in New Zealand. Go early before the tour groups arrive.
+Cathedral Cove is a short kayak or walk away, a dramatic sea arch that is one of the most photographed spots in New Zealand. Go early before the tour groups arrive.
 
 ---
 

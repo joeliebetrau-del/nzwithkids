@@ -4,16 +4,16 @@ description: "After two weeks of mountains and adventure, the Coromandel deliver
 region: "Coromandel"
 kidRating: 5
 highlights:
-  - "Hot Water Beach - dig your own geothermal pool at low tide"
-  - "Cathedral Cove sea arch - kayak or walk in"
-  - "The 309 Road and Waterworks - kids' hidden gem"
-  - "Hahei Beach itself - calm, safe, beautiful"
+  - "Hot Water Beach, dig your own geothermal pool at low tide"
+  - "Cathedral Cove sea arch, kayak or walk in"
+  - "The 309 Road and Waterworks, kids' hidden gem"
+  - "Hahei Beach itself, calm, safe, beautiful"
   - "Completely different from the South Island"
 ---
 
 ## Why the Coromandel
 
-After ten days on the South Island - dramatic, cold, mountainous, adrenaline-forward - the Coromandel Peninsula is the perfect gear shift. It is subtropical. It is lush. The beaches are warm. The pace is slower. And it has one of the most genuinely fun family experiences in New Zealand: Hot Water Beach.
+After ten days on the South Island, dramatic, cold, mountainous, adrenaline-forward, the Coromandel Peninsula is the perfect gear shift. It is subtropical. It is lush. The beaches are warm. The pace is slower. And it has one of the most genuinely fun family experiences in New Zealand: Hot Water Beach.
 
 We gave the Coromandel four nights, based at Hahei Beach Resort. It was the right amount of time and the right place to end a sixteen-day trip before the long flight home.
 
@@ -31,7 +31,7 @@ That last stretch in the dark on the winding coastal roads is fine but requires 
 
 The 309 is a gravel road that cuts across the Coromandel Peninsula through native forest. It is rougher than a sealed road but perfectly manageable in a standard rental car. Make time for the Waterworks.
 
-The Waterworks is a water-powered art installation and playground that is difficult to describe and easy to love. Dozens of creative contraptions powered by flowing water - wheels, bells, pumps, pendulums, fountains. Kids can interact with all of it. The older two immediately started competing. Our eight-year-old declared it her favorite thing of the entire trip.
+The Waterworks is a water-powered art installation and playground that is difficult to describe and easy to love. Dozens of creative contraptions powered by flowing water, wheels, bells, pumps, pendulums, fountains. Kids can interact with all of it. The older two immediately started competing. Our eight-year-old declared it her favorite thing of the entire trip.
 
 It is also free to enter. A New Zealand institution hiding in plain sight.
 
@@ -62,7 +62,7 @@ Go early. The tour groups arrive mid-morning and it gets congested on the beach.
 
 ## Hahei Beach
 
-The beach itself is beautiful - calm, safe, with gentle waves and warm enough water in summer to actually swim. After two weeks of mountains and glaciers, the kids rediscovered the ocean. We spent hours here doing nothing in particular.
+The beach itself is beautiful, calm, safe, with gentle waves and warm enough water in summer to actually swim. After two weeks of mountains and glaciers, the kids rediscovered the ocean. We spent hours here doing nothing in particular.
 
 Hahei Beach Resort is a short walk from the beach access. The sea view units are worth the premium.
 
