@@ -4,7 +4,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 
 <BaseLayout
   title="Planning for Your Family"
-  description="The real answers to the questions families ask before booking New Zealand. Flights, budget, ages, driving, jet lag - all of it."
+  description="The real answers to the questions families ask before booking New Zealand with kids."
 >
   <div class="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
     <p class="text-sm font-semibold text-forest-600 uppercase tracking-wider mb-3">Family Travel Guide</p>
@@ -15,167 +15,91 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 
     <div class="space-y-16">
 
-      <!-- Age -->
       <section>
-        <h2 class="font-display text-2xl font-bold text-gray-900 mb-2">Is My Child Old Enough?</h2>
-        <p class="text-gray-500 text-sm mb-5 italic">The question everyone asks first. The honest answer: it depends on what you want to do.</p>
+        <h2 class="font-display text-2xl font-bold text-gray-900 mb-4">Is the Flight Manageable with Kids?</h2>
         <p class="text-gray-600 leading-relaxed mb-4">
-          We took our kids at ages 8, 10, and 12 and every single one of them had a remarkable time. The eight-year-old finished a 10km glacier trail, dug her own hot pool on a Pacific beach, and declared an eccentric water-powered art installation in the Coromandel bush her favorite thing of the trip. Age is less of a ceiling than you think.
+          This is the question that stops most families from booking, so let's answer it honestly. Yes, it's long. From the US West Coast to Auckland is roughly 12 hours. From Chicago or the East Coast, add a connection and you're looking at 16-18 hours of total travel. That's a real thing.
         </p>
-        <p class="text-gray-600 leading-relaxed mb-6">
-          That said, the experience shifts significantly by age group, mostly in terms of what activities are available and how much ground you can cover in a day.
+        <p class="text-gray-600 leading-relaxed mb-4">
+          It's also survivable. Air New Zealand is genuinely excellent. The entertainment systems are good, the crew is patient with families, and the seats are more comfortable than most long-haul carriers. If you can book an overnight flight out of Los Angeles or San Francisco, most kids sleep through a meaningful chunk of it.
         </p>
-        <div class="grid grid-cols-1 sm:grid-cols-3 gap-4">
-          {[
-            {
-              age: 'Under 5',
-              notes: 'Doable with careful pacing. Skip long hikes and full activity days. Focus on beaches, hot pools, wildlife encounters, and playgrounds. New Zealand is safe and easy to navigate with toddlers.',
-            },
-            {
-              age: '5-10',
-              notes: 'The sweet spot. Old enough for most activities, still delighted by everything, young enough that every new experience lands hard. Our 8 and 10-year-old hit every single activity we planned without complaint.',
-            },
-            {
-              age: '11+',
-              notes: 'Near-adult capability for activities. Age minimums become irrelevant. Can handle full hiking days, longer drives, and more immersive experiences. The risk is trying to keep pace with them.',
-            },
-          ].map((item) => (
-            <div class="bg-forest-50 rounded-xl p-5">
-              <p class="font-bold text-forest-800 mb-2">{item.age}</p>
-              <p class="text-sm text-gray-600 leading-relaxed">{item.notes}</p>
-            </div>
-          ))}
-        </div>
+        <p class="text-gray-600 leading-relaxed mb-4">
+          The arrival jet lag is harder than the flight itself. Build your first day around nothing - get outside, get some fresh air, go to bed at a local time. Don't try to do anything ambitious. By day two, most kids have adjusted better than the adults.
+        </p>
+        <p class="text-gray-600 leading-relaxed">
+          The families who struggle with the flight are the ones who underprepared. Download everything in advance. Pack snacks. Bring noise-canceling headphones for the kids if you have them. Accept that it's a long flight and stop trying to make it not be one.
+        </p>
       </section>
 
-      <!-- Flight -->
       <section>
-        <h2 class="font-display text-2xl font-bold text-gray-900 mb-2">The Flight</h2>
-        <p class="text-gray-500 text-sm mb-5 italic">Yes, it is sixteen hours. No, it is not as bad as you are imagining.</p>
+        <h2 class="font-display text-2xl font-bold text-gray-900 mb-4">How Long Do You Actually Need?</h2>
         <p class="text-gray-600 leading-relaxed mb-4">
-          From the US Midwest, you are looking at a connection through a West Coast hub. We flew Chicago to San Francisco, then San Francisco to Auckland on Air New Zealand. The Auckland leg is sixteen hours. You cross the International Date Line. You lose a day on the way there and gain it back on the way home.
+          Two weeks is the minimum. Three weeks is better. The honest reasoning is that jet lag alone costs you a day on each end, and New Zealand is a country that rewards slowness. Every family we have heard from who did less than two weeks came home wishing they had stayed longer. Nobody has ever said the opposite.
         </p>
-        <p class="text-gray-600 leading-relaxed mb-4">
-          Air New Zealand is excellent. The aircraft is comfortable, the entertainment system is better than most, and the crew is genuinely good with kids. Request the children's meal for younger kids when you book. They handle it without fuss.
+        <p class="text-gray-600 leading-relaxed">
+          Two weeks works if you pick one island and do it well. Three weeks lets you do both without feeling rushed. If you only have ten days, consider waiting until you can do it properly - the flight is too long and the country too good to shortchange.
         </p>
-        <p class="text-gray-600 leading-relaxed mb-6">
-          The key is expectation-setting. Tell the kids upfront: this is a long flight, you might not sleep the whole time, and that is fine. Movies, books, headphones. The flight is the first adventure, not the obstacle before it.
-        </p>
-        <div class="bg-white border border-forest-200 rounded-xl p-6">
-          <h3 class="font-semibold text-gray-900 mb-4">What actually helped us</h3>
-          <ul class="space-y-3">
-            {[
-              'Book seats together as early as possible. Call the airline to confirm if needed.',
-              'Pack a small bag of new, unseen items for the flight. Works better than screen time alone.',
-              'Go overnight. Kids sleep. Time passes. You arrive closer to being human.',
-              'Build in at least one recovery day at the start of your trip. We used the Queenstown Bay Playground. It was exactly right.',
-              'The return flight is easier. Everyone is tired from a great trip. Everyone sleeps.',
-            ].map((tip) => (
-              <li class="flex gap-3 text-sm text-gray-600">
-                <span class="text-forest-500 font-bold mt-0.5">&#10003;</span>
-                <span>{tip}</span>
-              </li>
-            ))}
-          </ul>
-        </div>
       </section>
 
-      <!-- Budget -->
       <section>
-        <h2 class="font-display text-2xl font-bold text-gray-900 mb-2">What It Actually Costs</h2>
-        <p class="text-gray-500 text-sm mb-5 italic">New Zealand is not cheap. Being honest about this saves a lot of stress.</p>
+        <h2 class="font-display text-2xl font-bold text-gray-900 mb-4">What Time of Year Should We Go?</h2>
         <p class="text-gray-600 leading-relaxed mb-4">
-          We spent approximately $25,000 USD for five people for sixteen days, including flights. That is not a budget trip number. It is also not a reckless number for a once-in-a-decade family experience. We are not apologetic about it, but we want to be accurate.
+          March and April are the sweet spot. It's late summer in New Zealand - warm days, long evenings, and the school holiday crowds have thinned out after February. Prices drop slightly from peak season and the most popular spots feel manageable rather than overrun.
         </p>
-        <p class="text-gray-600 leading-relaxed mb-6">
-          The big costs are flights (roughly $2,000 per person round trip from the US), accommodation, and activities. Activities add up faster than most people plan for. The Fly-Cruise-Fly to Milford Sound alone is a significant line item. Budget for the real cost and you will have a great trip. Be surprised by it and the whole thing feels expensive even while it is happening.
+        <p class="text-gray-600 leading-relaxed mb-4">
+          December through February is peak New Zealand summer. It's beautiful but busy and expensive, especially in Queenstown and the South Island. If that's when your family can go, go - just book everything well in advance.
         </p>
-        <div class="overflow-x-auto rounded-xl border border-gray-100">
-          <table class="w-full text-sm text-left">
-            <thead class="bg-forest-50">
-              <tr>
-                <th class="px-5 py-3 font-semibold text-gray-900">Category</th>
-                <th class="px-5 py-3 font-semibold text-gray-900">What we paid (family of 5)</th>
-                <th class="px-5 py-3 font-semibold text-gray-900">Notes</th>
-              </tr>
-            </thead>
-            <tbody class="divide-y divide-gray-100 text-gray-600">
-              <tr>
-                <td class="px-5 py-3">Flights (5 people)</td>
-                <td class="px-5 py-3">~$10,000 USD</td>
-                <td class="px-5 py-3">Roughly $2,000 per person. Book early.</td>
-              </tr>
-              <tr>
-                <td class="px-5 py-3">Car rentals (2)</td>
-                <td class="px-5 py-3">~$2,500 USD</td>
-                <td class="px-5 py-3">South Island + North Island separate cars.</td>
-              </tr>
-              <tr>
-                <td class="px-5 py-3">Accommodation (16 nights)</td>
-                <td class="px-5 py-3">~$5,500 USD</td>
-                <td class="px-5 py-3">Mix of AirBnb, lodges, and holiday parks.</td>
-              </tr>
-              <tr>
-                <td class="px-5 py-3">Activities</td>
-                <td class="px-5 py-3">~$2,500 USD</td>
-                <td class="px-5 py-3">Milford Fly-Cruise-Fly is the biggest line.</td>
-              </tr>
-              <tr>
-                <td class="px-5 py-3">Food</td>
-                <td class="px-5 py-3">~$100-150 USD/day</td>
-                <td class="px-5 py-3">Mix of self-catering and dining out.</td>
-              </tr>
-            </tbody>
-          </table>
-        </div>
-        <p class="text-xs text-gray-400 mt-3">All amounts USD and approximate.</p>
+        <p class="text-gray-600 leading-relaxed mb-4">
+          September and October work well too. It's NZ spring, the landscapes are green, and the South Island in particular is stunning before the summer crowds arrive. Some higher-altitude activities may still be weather-affected.
+        </p>
+        <p class="text-gray-600 leading-relaxed">
+          Avoid July and August for a South Island-heavy trip. It's winter, it's cold in the mountains, and several outdoor activities become limited or unavailable.
+        </p>
       </section>
 
-      <!-- Driving -->
       <section>
-        <h2 class="font-display text-2xl font-bold text-gray-900 mb-2">Driving in New Zealand</h2>
-        <p class="text-gray-500 text-sm mb-5 italic">You need a car. You will drive on the left. The GPS is wrong about how long things take.</p>
+        <h2 class="font-display text-2xl font-bold text-gray-900 mb-4">How Much Does This Realistically Cost?</h2>
         <p class="text-gray-600 leading-relaxed mb-4">
-          Public transport is functional within New Zealand cities. Between them, it is useless for a family itinerary. You need a rental car, full stop.
+          More than you think, and worth every dollar of it.
         </p>
         <p class="text-gray-600 leading-relaxed mb-4">
-          New Zealand drives on the left. If you have never done this before, give yourself thirty minutes of calm suburban driving before you try a main road. The adjustment is faster than you expect, but the first hour is where mistakes happen. Roundabouts are everywhere and give way rules are the reverse of what most Americans are used to.
+          For a family of four or five flying from the US, a realistic two-week budget breaks down roughly like this. Flights will run $5,000 to $9,000 depending on where you're flying from, when you book, and how many points you can apply. Accommodation runs $250 to $500 per night depending on whether you use Airbnb, motels, or hotels - Airbnb tends to work best for families because you get a kitchen and actual space. Activities are where costs add up quickly. The big experiences - Milford Sound, jet boating, gondolas, guided hikes - each run $200 to $400 for a family. Budget $2,000 to $3,000 for activities and you'll be in the right range. Food is reasonable by international standards, especially if you self-cater some meals.
         </p>
-        <p class="text-gray-600 leading-relaxed mb-6">
-          The other thing: Google Maps' time estimates assume sealed, straight roads at posted speed limits. The South Island has neither. A 100km drive can take two hours if the road is winding and the scenery keeps stopping you - which it will. Build in extra time, especially if you are driving through passes, along coastlines, or on the Coromandel Peninsula at night.
+        <p class="text-gray-600 leading-relaxed">
+          All in, a family of four should budget $15,000 to $20,000 for a well-planned two-week trip. That number is uncomfortable for some families and completely reasonable for others. What we'd say is that if you're going to do it, do it right. Cutting corners on accommodation or skipping the big experiences to save money tends to produce a trip that feels like a compromise. This is not a trip to do on a tight budget.
         </p>
-        <div class="bg-amber-50 border border-amber-200 rounded-xl p-5">
-          <p class="text-sm font-semibold text-amber-800 mb-2">The Coromandel at Night</p>
-          <p class="text-sm text-amber-700 leading-relaxed">
-            The last stretch of our drive to Hahei happened after dark on narrow, winding coastal roads. It was fine, but it was not relaxing. Plan to arrive at your Coromandel destination before sunset. The roads are beautiful in daylight and demanding in the dark.
-          </p>
-        </div>
       </section>
 
-      <!-- Jet lag -->
       <section>
-        <h2 class="font-display text-2xl font-bold text-gray-900 mb-2">Jet Lag</h2>
-        <p class="text-gray-500 text-sm mb-5 italic">The time difference from the US is 16-18 hours. Here is how we handled it.</p>
+        <h2 class="font-display text-2xl font-bold text-gray-900 mb-4">North Island, South Island, or Both?</h2>
         <p class="text-gray-600 leading-relaxed mb-4">
-          New Zealand is roughly 17-18 hours ahead of US Central time. This means midnight in Milwaukee is late afternoon in Queenstown. Your body knows this, immediately, and does not appreciate it.
+          Both if you have three weeks. One if you have two.
         </p>
         <p class="text-gray-600 leading-relaxed mb-4">
-          The kids adapted faster than we did, which is either encouraging or annoying depending on how you look at it. By day three, all three were on local time. By day three, the adults were functional but only just.
+          The South Island is where most families start, and for good reason. It's more dramatic - the Fiordland, the Southern Alps, the glacial lakes around Queenstown and Wanaka. It's where the adventure activities are concentrated. It photographs the way New Zealand looks in your imagination.
         </p>
-        <ul class="space-y-3">
-          {[
-            'Build one recovery day into the start of your trip. Do not plan activities for Day 1. Full stop.',
-            'Get outside in daylight immediately on arrival. Sunlight resets your circadian rhythm faster than anything else.',
-            'Do not nap on arrival day if you can avoid it. Push through to local bedtime.',
-            'Kids adapt faster than adults. Use their energy as permission to move slowly yourself.',
-            'The return jet lag is easier. You are tired from a great trip. The adjustment happens faster.',
-          ].map((tip) => (
-            <li class="flex gap-3 text-sm text-gray-600">
-              <span class="text-forest-500 font-bold mt-0.5">&#10003;</span>
-              <span>{tip}</span>
-            </li>
-          ))}
-        </ul>
+        <p class="text-gray-600 leading-relaxed mb-4">
+          The North Island is warmer, more accessible, and more culturally rich. Rotorua is the center of Maori culture and also sits on one of the most active geothermal fields in the world - boiling mud pools, geysers, thermal hot springs. The Coromandel Peninsula has some of the best family beaches in the country. Auckland is a genuine world-class city worth a day or two.
+        </p>
+        <p class="text-gray-600 leading-relaxed">
+          If you have to choose, most families with younger kids lean toward a South Island focus. Families with teens often prefer the variety of doing both. If you're doing both, fly into one island and out of the other - most international visitors fly into Auckland and out of Queenstown, or the reverse.
+        </p>
+      </section>
+
+      <section>
+        <h2 class="font-display text-2xl font-bold text-gray-900 mb-4">What Ages Does This Work For?</h2>
+        <p class="text-gray-600 leading-relaxed mb-4">
+          Any age works. Some ages work better than others.
+        </p>
+        <p class="text-gray-600 leading-relaxed mb-4">
+          Under five is doable but demands a different kind of trip - slower, more flexible, less activity-focused. Many of the best experiences have age or height minimums, and long hikes become family negotiations. If your kids are under five, lean into beaches, wildlife encounters, and thermal pools. New Zealand is safe, easy to navigate, and incredibly beautiful at any pace.
+        </p>
+        <p class="text-gray-600 leading-relaxed mb-4">
+          Six to twelve is the sweet spot. Kids this age can handle the big hikes, meet the activity minimums, and are still young enough to be genuinely amazed by things. An eight-year-old finishing a 10km glacier trail, a ten-year-old on a jet boat through a canyon - these experiences land differently at this age than they will at any other.
+        </p>
+        <p class="text-gray-600 leading-relaxed">
+          Teens do great. The adventure activities were built for them, the freedom to explore suits them, and New Zealand tends to break through even the most committed teenage indifference. Pack their favorite snacks and let them navigate sometimes. They'll surprise you.
+        </p>
       </section>
 
     </div>
