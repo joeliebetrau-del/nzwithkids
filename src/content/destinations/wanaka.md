@@ -1,5 +1,5 @@
 ---
-title: "Wanaka"
+title: "Wānaka"
 description: "Queenstown's quieter neighbor rewards families who slow down. Four nights here was the right call - and Rob Roy's glacier track is not to be missed."
 region: "Otago"
 kidRating: 5

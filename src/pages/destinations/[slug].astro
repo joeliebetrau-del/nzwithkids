@@ -4,7 +4,7 @@ import ProseLayout from '../../layouts/ProseLayout.astro';
 
 // Slugs handled by their own static page (e.g. src/pages/destinations/queenstown.astro)
 // must be excluded here to avoid duplicate-route build errors.
-const STATIC_PAGE_SLUGS = ['queenstown'];
+const STATIC_PAGE_SLUGS = ['queenstown', 'wanaka'];
 
 export async function getStaticPaths() {
   const destinations = await getCollection(
