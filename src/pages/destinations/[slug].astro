@@ -2,11 +2,12 @@
 import { getCollection } from 'astro:content';
 import ProseLayout from '../../layouts/ProseLayout.astro';
 
-// Slugs handled by their own static page (e.g. src/pages/destinations/queenstown.astro)
-// must be excluded here to avoid duplicate-route build errors.
-const STATIC_PAGE_SLUGS = ['queenstown', 'wanaka'];
-
 export async function getStaticPaths() {
+  // Slugs handled by their own static page (e.g. src/pages/destinations/queenstown.astro)
+  // must be excluded here to avoid duplicate-route build errors. Declared inside
+  // getStaticPaths because Astro hoists this function into its own scope.
+  const STATIC_PAGE_SLUGS = ['queenstown', 'wanaka'];
+
   const destinations = await getCollection(
     'destinations',
     ({ data, slug }) => !data.draft && !STATIC_PAGE_SLUGS.includes(slug),
